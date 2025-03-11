@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>trianguloscabri</title>
+
+
+
+
+<meta http-equiv="" content="text/html; charset=iso-8859-1" />
+<meta name="Laboratorio virtual de triángulos con cabri" scheme="ISSN"
+  content="1679-4859" />
+<script type="text/javascript" language="JavaScript1.2" src=" stm31.js">
+ </script>
+<style type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+.Section1 {
+	page: Section1;
+}
+.estilo1211 {
+	color: #000099;
+}
+div.Section1 {
+	page: Section1;
+}
+body {
+    background-color: #EBEB81
+}
+.Section11 {
+	page: Section1;
+}
+.Section12 {
+	page: Section1;
+}
+.Section13 {
+	page: Section1;
+}
+.Section14 {
+	page: Section1;
+}
+- .Section131 {
+page:Section1;
+}
+.WordSection1 {
+	page: WordSection1;
+}
+.Section15 {
+	page: Section1;
+}
+.Section16 {
+	page: Section1;
+}
+.Section151 {
+	page: Section1;
+}
+.Section1511 {
+	page: Section1;
+}
+.Section1512 {
+	page: Section1;
+}
+.Section17 {
+	page: Section1;
+}
+.Section18 {
+	page: Section1;
+}
+.Section19 {
+	page: Section1;
+}
+.Section110 {
+	page: Section1;
+}
+.Section111 {
+	page: Section1;
+}
+.Section112 {
+	page: Section1;
+}
+.Section1101 {
+	page: Section1;
+}
+.Section1111 {
+	page: Section1;
+}
+.Section11011 {
+	page: Section1;
+}
+.Section11012 {
+	page: Section1;
+}
+.Section11013 {
+	page: Section1;
+}
+.Section113 {
+	page: Section1;
+}
+.Section110121 {
+	page: Section1;
+}
+.Section1131 {
+	page: Section1;
+}
+.Section110131 {
+	page: Section1;
+}
+.Section1101211 {
+	page: Section1;
+}
+.Section11311 {
+	page: Section1;
+}
+.Section11012111 {
+	page: Section1;
+}
+.Section113111 {
+	page: Section1;
+}
+.Section11012112 {
+	page: Section1;
+}
+.Section113112 {
+	page: Section1;
+}
+.Section11012113 {
+	page: Section1;
+}
+.Section113113 {
+	page: Section1;
+}
+.Section114 {
+	page: Section1;
+}
+.Section1141 {
+	page: Section1;
+}
+-->
+</style>
+
+<!-- Código del Icono -->
+
+<link rel="Shortcut Icon" href="../curso20072008/746/images/favicon.ico" type="image/x-icon" />
+<style type="text/css">
+<!--
+.Section11411 {
+	page: Section1;
+}
+.Section11412 {
+	page: Section1;
+}
+.Section115 {
+	page: Section1;
+}
+.Section116 {
+	page: Section1;
+}
+.Section114121 {
+	page: Section1;
+}
+.Section1161 {
+	page: Section1;
+}
+.Section1141211 {
+	page: Section1;
+}
+.Section11611 {
+	page: Section1;
+}
+.Section1141212 {
+	page: Section1;
+}
+.Section11612 {
+	page: Section1;
+}
+.Section1141213 {
+	page: Section1;
+}
+.Section11613 {
+	page: Section1;
+}
+.Section117 {
+	page: Section1;
+}
+.Section1141214 {
+	page: Section1;
+}
+.Section11614 {
+	page: Section1;
+}
+.Section1141215 {
+	page: Section1;
+}
+.Section11615 {
+	page: Section1;
+}
+.Section118 {
+	page: Section1;
+}
+.Section119 {
+	page: Section1;
+}
+.WordSection11 {
+	page: WordSection1;
+}
+.MsoBodyText {
+	font-size: 12.0pt;
+	font-family: "Times New Roman";
+	color: black;
+}
+.Section120 {
+	page: Section1;
+}
+.WordSection12 {
+	page: WordSection1;
+}
+.MsoBodyText1 {
+	line-height: 115%;
+	font-size: 11.0pt;
+	font-family: Calibri;
+}
+.Section121 {
+	page: Section1;
+}
+.Section122 {
+	page: Section1;
+}
+.Section1211 {
+	page: Section1;
+}
+.Section123 {
+	page: Section1;
+}
+.MsoBodyText2 {
+	line-height: 115%;
+	font-size: 11.0pt;
+	font-family: "Calibri", "sans-serif";
+}
+.WordSection13 {
+	page: WordSection1;
+}
+.WordSection14 {
+	page: WordSection1;
+}
+.Section124 {
+	page: Section1;
+}
+.Section125 {
+	page: Section1;
+}
+.WordSection131 {
+	page: WordSection1;
+}
+.Section1241 {
+	page: Section1;
+}
+.Section1251 {
+	page: Section1;
+}
+.WordSection141 {
+	page: WordSection1;
+}
+.WordSection1311 {
+	page: WordSection1;
+}
+.Section126 {
+	page: Section1;
+}
+.Section1261 {
+	page: Section1;
+}
+.WordSection13111 {
+	page: WordSection1;
+}
+.Section1262 {
+	page: Section1;
+}
+.Section127 {
+	page: Section1;
+}
+.WordSection15 {
+	page: WordSection1;
+}
+.WordSection16 {
+	page: WordSection1;
+}
+.WordSection17 {
+	page: WordSection1;
+}
+.WordSection18 {
+	page: WordSection1;
+}
+.Section128 {
+	page: Section1;
+}
+.Section129 {
+	page: Section1;
+}
+.Section130 {
+	page: Section1;
+}
+.Estilo2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+	color: #0C58CB;
+}
+.Section131 {
+	page: Section1;
+}
+.WordSection19 {
+	page: WordSection1;
+}
+.Section132 {
+	page: Section1;
+}
+.WordSection110 {
+	page: WordSection1;
+}
+.WordSection111 {
+	page: WordSection1
+}
+div.WordSection1 {
+	page: WordSection1
+}
+.WordSection19 var strong {
+	color: #000;
+}
+.WordSection19 {
+	font-family: Lucida Console, Monaco, monospace;
+}
+div.MsoNormal {mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+li.MsoNormal {mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.MsoNormal {mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+span.GramE {mso-style-name:"";
+	mso-gram-e:yes;}
+span.SpellE {mso-style-name:"";
+	mso-spl-e:yes;}
+.WordSection1311 tt strong em {
+	color: #000;
+}
+p.MsoNormal1 {mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.MsoNormal2 {mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.MsoNormal11 {mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.MsoNormal111 {mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.MsoNormal21 {mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.MsoNormal1111 {mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.MsoNormal211 {mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.MsoNormal11111 {mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.MsoNormal2111 {mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.MsoNormal21111 {mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+p.MsoNormal211111 {mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+span.SpellE1 {mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE1 {mso-style-name:"";
+	mso-gram-e:yes;}
+span.GramE11 {mso-style-name:"";
+	mso-gram-e:yes;}
+span.SpellE2 {mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE2 {mso-style-name:"";
+	mso-gram-e:yes;}
+span.SpellE3 {mso-style-name:"";
+	mso-spl-e:yes;}
+.Estilo4 {font-style: italic}
+.Estilo5 {font-style: italic}
+.Estilo6 {
+	font-size: large;
+	color: #6600FF;
+}
+.Estilo7 {
+	color: #008080;
+	font-style: italic;
+}
+-->
+</style>
+
+
+
+<meta name="google-site-verification" content="zrpDbG3oAHRxiXS42PbXBf9cZFi8LD8W9WwXPgfAUkA" />
+<meta http-equiv=”refresh” content=”0; url=http://personales.us.es/rbarroso”>
+</head>
+
+
+
+<body dir="ltr">
+<p>Amigos en</p>
+<p>&nbsp;</p>
+<p><a href="https://archive.org/details/triangulosCabri">todo triánguloscabri</a></p>
+<p>&nbsp;</p>
+<p>se puede descargar un zip con todo lo publicado en los 22 a&ntilde;os de revista. Gracias. Ricardo</p>
+<p><strong><em>Amigos, ge&oacute;metras, internautas, curiosos, esta revista llega a su final. </em></strong></p>
+<p><em><strong>Muy agradecido por vuestra atenci&oacute;n durante estos 22 a&ntilde;os. </strong></em></p>
+<p><em><strong>Ha sido para mi una aventura muy interesante.</strong></em></p>
+<table width="708" border="1">
+  <tr>
+    <td width="698" bgcolor="#FFFFFF"><p>&nbsp;</p>
+      <p>Comentario de Ercole Suppa</p>
+      <p>Caro Ricardo
+        proprio in questo momento ho saputo della conclusione del sito Triangulos Cabri.
+        
+        Ti esprimo i miei pi&ugrave; sentiti ringraziamenti per questa bellissima avventura&nbsp;&nbsp;
+        a cui hanno contribuito numerosi geometri da varie parti del mondo.
+        Sfogliando le pagine di TriangulosCabri&nbsp;ho imparato tante cose che non conoscevo!
+        <br />
+        
+        Un forte abbraccio e cordiali saluti anche&nbsp;da Rosanna. 
+        
+        
+      </p>
+      <p>Ercole</p>
+      <p>Muchas gracias Ercole y Rosanna</p>
+    </td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="700" border="1">
+  <tr>
+    <td bgcolor="#CCCCCC"><p>Querido amigo Ricardo.</p>
+      <p>Te escribo unas notas para agradecerte personalmente todo lo que he recibido a trav&eacute;s de tu Laboratorio. Dicen que &quot;20 a&ntilde;os no son nada&quot;, pero 22 s&iacute; que lo son. En este tiempo hemos recibido y compartido de una manera generosa y altruista, todos los contenidos del Laboratorio. En mi caso, tanto mi formaci&oacute;n como el gusto por la Geometr&iacute;a se deben sin duda a tu quehacer en la revista. Me complace haber pertenecido a tu equipo de colaboradores, resolviendo problemas, adquiriendo as&iacute; una experiencia imborrable. Quiero agradecer p&uacute;blicamente tu entusiasmo y tu inquebrantable labor durante todo este tiempo. Has conseguido que tu proyecto haya sido tambi&eacute;n nuestro. A trav&eacute;s del Laboratorio, hemos conocido a otros colegas, y sus diferentes formas de resolver problemas. Hemos compartido con ellos sus conocimientos y distintos estilos. En definitiva, hemos descubierto la belleza que hay en la Geometr&iacute;a.</p>
+      <p>Nunca has dejado de publicar una soluci&oacute;n, aunque esta estuviera ya fuera de plazo o figurase ya publicada. Este hecho ya muestra por s&iacute; solo tu generosidad y tus amplias miras did&aacute;cticas. Un problema nunca est&aacute; acabado, aunque tenga ya alguna soluci&oacute;n concreta. En el caso del Laboratorio, esta ha sido una caracter&iacute;stica propia y genuina del mismo.</p>
+      <p>Mi enorme gratitud y reconocimiento a tu labor desarrollada en el Laboratorio.</p>
+      <p>Un abrazo de tu amigo y fiel admirador.</p>
+    <p>F. Dami&aacute;n Aranda Ballesteros</p>
+    <p>Muy agradecido amigo Florentino Dami&aacute;n</p>
+    <p>&nbsp;</p></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="626" border="1">
+  <tbody>
+    <tr>
+      <td><p>Comentario de Jean Louis Aym&eacute;</p>
+        <p>Querido Ricardo,<br />
+        </p>
+        <div>merci pour ce merveilleux travail que tu as accompli avec g&eacute;n&eacute;rosit&eacute; en ce qui concerne ton joli site depuis 22ans...<br />
+          <div dir="ltr"><br />
+            <div>Ici, la covid est en expansion et les gens ne prennent aucun soin avec les gestes barri&egrave;res.<br />
+              <div dir="ltr"><br />
+                <div>Nous pensons aller en Europe, mais au vu de la situation, nous sommes dans l'expectative....<br />
+                  <div dir="ltr"><br />
+                    <div>Je souhaite que ce petit mot te trouvera en forme et en sant&eacute;...<br />
+                      <div dir="ltr"><br />
+                        <div dir="ltr">
+                          <div>Meilleurs Voeux pour 2023.<br />
+                            <div>Que chaque jour de cette nouvelle ann&eacute;e t'apporte ainsi qu'&agrave; votre famille<br />
+                              <div>JOIE-SANTE et BONHEUR.<br />
+                                <div dir="ltr"><br />
+                                  <div>
+                                    <p>Avec toutes mes amiti&eacute;s<br />
+                                      Jean-Louis</p>
+                                    <p>Muchas gracias Jean Louis</p>
+                                    <p>Es webmaster de<a href="http://jl.ayme.pagesperso-orange.fr/"> BGeoemtry</a></p>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+      </div></td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<p><a href="sol1065garcap.pdf">)</a></p>
+<table width="970" border="1">
+  <tr>
+    <td bgcolor="#66FFCC"><p>Comentario de Francisco Javier Garc&iacute;a Capit&aacute;n </p>
+      <div>
+        <p>&iexcl;Much&iacute;sisimas gracias por tu magn&iacute;fico trabajo todo este tiempo!<br />
+          Gracias a vosotros    </p>
+        <p>El profesor Garc&iacute;a Capt&aacute;n ha tenido varias p&aacute;ginas webs.<a href="http://garciacapitan.blogspot.com/"> esta es una de ellas</a></p>
+    </div></td>
+  </tr>
+</table>
+<table width="991" border="1">
+  <tr>
+    <td width="981" bgcolor="#00FFFF"><p>Francisco Javier Garc&iacute;a Capit&aacute;n me env&iacute;a este mensaje de Luis Lopes</p>
+    <p>Ol&aacute; Francisco,<br />
+      <br />
+      Vi ontem que Ricardo Barroso vai encerrar ou j&aacute; encerrou as atividades do seu excelente site. Assim como Paul Yiu e FG, mais uma grande perda para a nossa comunidade. Consultava regularmente a base de problemas. Espero que o arquivo v&aacute; continuar dispon&iacute;vel. Se por acaso voc&ecirc; fala/conhece o Ricardo Barroso, transmita-lhe por favor minhas sinceras sauda&ccedil;&otilde;es e um grande agradecimento pelo belo trabalho desses anos todos.<br />
+      <br />
+      E aproveito para lhe desejar um bom per&iacute;odo de Festas e agradecer mais uma vez por toda a sua ajuda. Feliz Natal e Ano novo.<br />
+      <br />
+      Saludos,<br />
+    Lu&iacute;s</p>
+    <p>Muy agradecido Luis</p>
+    <p>P&aacute;gina de<a href="https://www.escolademestres.com/luis-lopes"> Luis Lopes</a></p></td>
+  </tr>
+</table>
+<table width="627" border="1">
+  <tr>
+    <td width="506" bgcolor="#CCCCCC"><p>Comentaro de Ricard Peir&oacute;</p>
+      <p>Hoy he entrado en la revista y he visto que se ha terminado el largo recorrido! </p>
+      <div>Moltes felicitats!</div>
+      <div>
+        <p>Moltes gr&agrave;cies!</p>
+        <p>Gracaas a ti y a todos vosotros</p>
+        <p>P&aacute;gina de <a href="https://twitter.com/ricardpe1961a">Ricard</a></p>
+      </div></td>
+  </tr>
+</table>
+<table width="591" border="1">
+  <tr>
+    <td width="581" bgcolor="#CCFFCC"><p>He recibido telef&oacute;nicamente muchas felicitaciones.</p>
+      <p>Saturnino Campo Ruiz</p>
+      <p>Florentino Dami&aacute;n Aranda Ballesteros</p>
+      <p>C&eacute;sar Beade Franco</p>
+      <p> Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega</p>
+    <p>Muy agradecido</p></td>
+  </tr>
+</table>
+<table width="588" border="1">
+  <tr>
+    <td width="578" bgcolor="#66CC99">Comentario de &nbsp;Philippe Fondanaiche
+      <p>Lamento que haya puesto un punto final a su revista Trianguloscabri, <br />
+        - mis m&aacute;s calurosas felicitaciones por haber manejado durante 22 a&ntilde;os con eficiencia y consistencia un hermoso sitio de problemas de geometr&iacute;a,<br />
+        - mi agradecimiento por darme la oportunidad de participar activamente en la soluci&oacute;n de los problemas con soluciones escritas no en espa&ntilde;ol sino en mi lengua materna.<br />
+    Espero que su revista siempre sea accesible y que siempre podremos consultar los archivos que contiene.</p>
+    <p>&nbsp;Testimonio espont&aacute;neo y sincero de un fiel lector de Francia</p>
+    <p>P&aacute;gina de <a href="http://www.diophante.fr/">Philippe</a></p></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="925" border="1">
+  <tbody>
+    <tr>
+      <td width="19%" height="167"><p><img src="image001.gif" alt="" width="241" height="229"
+        id="_x0000_i" border="0" align="texttop" /></p>
+        <p>&nbsp;</p>
+        <a href="../index.htm" class="Estilo6">  
+          <h1>Men&uacute;</h1></a>
+          <p>Actualizado a Septiembre de 2022</p>
+      
+      <p></p></td>
+      <td bgcolor="#BBD1DD"><p align="right"
+        style="text-align:right"><strong><span style="color:#666633">ISSN
+        1697-4859</span></strong></p>
+        <p><span
+        style="font-size:10.0pt;font-family:Verdana;color:#771E00">Sevilla
+          (Espa&ntilde;a)</span><span style="font-family:Arial">
+            <script languaje="JavaScript">
+
+var mydate=new Date()
+var year=mydate.getYear()
+if (year < 1000)
+year+=1900
+var day=mydate.getDay()
+var month=mydate.getMonth()
+var daym=mydate.getDate()
+if (daym<10)
+daym="0"+daym
+var dayarray=new Array("Domingo","Lunes","Martes","Miercoles","Jueves","Viernes","Sabado")
+var montharray=new Array("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre")
+document.write("<small><font color='000000' face='Arial'>"+dayarray[day]+" "+daym+" de "+montharray[month]+" de "+year+"</font></small>")
+
+            </script>
+          </span></p>
+        <p><strong><span
+        style="font-family:&quot;Courier New&quot;;color:blue">Bienvenido/a al
+          Laboratorio virtual de tri&aacute;ngulos con Cabri II</span></strong></p>
+        <p><span
+        style="font-size:10.0pt;font-family:Arial;color:#CC0000">Propuesta
+          quincenal de problemas e tri&aacute;ngulos para resolverlos con
+          Cabri</span></p>
+        <p><span style="font-size:10.0pt;font-family:Arial;color:#CC0000">Las
+          propuestas de problemas y las soluciones </span>rbarroso@us.es O A
+          ricardobca@yahoo.com <span
+        style="font-variant:small-caps;color:blue"><a
+        href="fotosev.htm"
+        target="_blank">IMAGEN DE SEVILLA</a></span></p>
+        <p><span class="estilo1521"><span style="font-variant:small-caps"><a
+        href="fuente.jpg">Fuente hexagonal del alc&Aacute;zar</a></span></span></p>
+        <p><span style="font-variant:small-caps;color:#663366"><a
+        href="desdegiralda.jpg" target="_parent">Vista de Sevilla desde la
+          Giralda</a></span></p>
+        <p><span class="estilo1711"><a href="estrellla.jpg"
+        target="_parent">Estrella de ocho puntas del alc&aacute;zar </a></span></p>
+        <p>&nbsp;</p></td>
+      &nbsp; </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<table width="824" border="1">
+  <tr>
+    <td><p>Edici&oacute;n final </p>
+      <p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+      <p>&nbsp;</p>
+      <p>Problema 1064</p>
+      <p><img src="pro1064.png" alt="" width="667" height="134" /></p>
+    <p>P&eacute;rez, M. A. (2022): Comunicaci&oacute;n personal.</p>
+    <p><a href="sol1064miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (25 de Noviembre de 2022)</a></p>
+    <p>Propuesta de Francisco Javier Garc&iacute;a Capit&aacute;n , profesor del IES &Aacute;lvarez Cubero (Priego de C&oacute;rdoba).</p>
+    <p>Problema 1065.</p>
+    <p><img src="pro1065.png" alt="" width="467" height="333" /></p>
+    <p>Garc&iacute;a, F.J. (2022): Comunicaci&oacute;n personal.</p>
+    <p><a href="sol1065garcap.pdf">Solución de Francisco Javier García Capitán , profesor del IES Álvarez Cubero (Priego de Córdoba)</a></p>
+    <p>Problema 1066.</p>
+    <p>Sea un tri&aacute;ngulo ABC.Sean Br<sub>1</sub> Br<sub>2</sub> sus puntos de Brocard.</p>
+    <p>a)  Sea T el pie de la simediana del v&eacute;rtice A. </p>
+    <p>Probar que los tri&aacute;ngulos BBr<sub>1</sub>T y CBr<sub>2</sub>T son semejantes.</p>
+    <p>b) Sean O el circuncentro y L el punto de Lemione. </p>
+    <p>Probar que OBr<sub>1</sub>=OBr<sub>2</sub>, LBr<sub>1</sub>=LBr<sub>2, </sub>&lt;OBr<sub>1</sub>L=&lt;OBr<sub>2</sub>L=90&ordm;</p>
+    <p>Akopyan, A. (2019): Figures sans paroles. (2.23, 2.24)</p>
+    <p><a href="sol1066phil.pdf">Soluci&oacute;n de Philippe Fondanaiche (25 de Noviembre de 2022)</a></p>
+    <p>&nbsp;</p>
+    <p>Philippe Fondanaiche tiene<a href="http://www.diophante.fr/"> una p&aacute;gina web</a></p>
+    <p>&nbsp;</p></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table width="943" border="1">
+  <tr>
+    <td><p>Edici&oacute;n del 1 al 15 de Noviembre de 2022</p>
+    <p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+    <p>Problema 1062</p>
+    <p>&nbsp;</p>
+    <p><img src="pro1062.png" width="675" height="532" /></p>
+    <p>P&eacute;rez, M. A. (2022): Comunicaci&oacute;n personal.</p>
+    <p><a href="sol1062miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (1 de Noviembre de 2022)</a></p>
+    <p><a href="sol1062cesbe.pdf">Soluci&oacute;n de los apartados 1 2 3 y 7 de C&eacute;sar Beade Franco, profesor de matem&aacute;ticas jubilado de Cee (La Coru&ntilde;a)(1 De Noviembre de 2022) </a></p>
+    <p>Propuesto por Juan Jos&eacute; Isach Mayo, Espa&ntilde;a, y .Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+    <p>Problema 1063</p>
+    <p><img src="pro1063.png" width="536" height="244" /></p>
+    <p>Isach, J.J., P&eacute;rez, M. A. (2022): Comunicaci&oacute;n personal.</p>
+    <p>(Nota de los autores: Este problema es el<a href="https://gaceta.rsme.es/abrir.php?id=1710"> 455 de la Gaceta Matemática</a> de la RSME)</p>
+    <p><a href="sol1063miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (1 de Noviembre de 2022)</a></p>
+    <p>&nbsp;</p>
+    <p><a href="sol1063sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor de Matem&aacute;ticas jubilado, de Salamanca ( 9de Noviembre de 2022)</a></p></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table width="950" border="1">
+  <tr>
+    <td width="940"><p>Edici&oacute;n del 15 de  Octubre de 2022 al 31 de Octubre de 2022</p>
+    <p>Propuesto por &Aacute;ngel Montesdeoca Delgado, &nbsp;estudioso&nbsp;de&nbsp;Geometr&iacute;a</p>
+    <p>Problema 1060</p>
+    <p>Construir sobre los lados AB y AC de un tri&aacute;ngulo ABC pares de puntos B' y C', respectivamente, tales que&nbsp;BB' = B'C' = C'C.</p>
+    <p>Montesdeoca, A. (2022): Comunicaci&oacute;n personal.</p>
+    <p><a href="https://amontes.webs.ull.es/">&Aacute;ngel Montesdeoca tiene una p&aacute;gina web</a></p>
+    <p>&nbsp;</p>
+    <p><a href="sol1060sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor de Matem&aacute;ticas jubilado, de Salamanca (23 de Octubre de 2022)</a></p>
+    <p><a href="sol1060cesbe.pdf">Soluci&oacute;n de C&eacute;sar Beade Franco, profesor de matem&aacute;ticas jubilado de Cee (La Coru&ntilde;a)(26 De Octubre de 2022) </a></p>
+    <p>Francisco Javier Garc&iacute;a Capit&aacute;n me advierte que en 2004 fue publicado como problema 170. </p>
+    <p>Mi agradecimiento por el aviso, y dejo doble n&uacute;mero. </p>
+    <p>Propuesto por Jos&eacute; Mar&iacute;a Pedret Ingeniero Naval. (Esplugas)</p>
+    <p><a href="../curso20032004/pro170.htm" target="_parent">Problema 170. Una tranversal y una construcci&oacute;n</a></p>
+    <p><a href="../curso20032004/sol170ped.htm" target="_parent">Soluci&oacute;n de Jos&eacute; Mar&iacute;a Pedret Ingeniero Naval. (Esplugas) (16 de mayo de 2004 (actualizada el 31 de mayo de 2004))</a></p>
+    <p><a href="../curso20032004/sol170dam.htm" target="_parent">Soluci&oacute;n de F. Dami&aacute;n Aranda Ballesteros profesor de Matem&aacute;ticas del IES Blas Infante en C&oacute;rdoba (19 de mayo de 2004)</a></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+    <p>Problema 1061</p>
+    <p>Dado un tri&aacute;ngulo ABC, se consideran los puntos E y F de intersecci&oacute;n entre su  A-inc&iacute;rculo mixtilinear y las rectas CA y AB, respectivamente, los puntos U y V de intersecci&oacute;n entre su  B-inc&iacute;rculo mixtilinear y las rectas AB y BC, respectivamente, y los puntos P y Q de intersecci&oacute;n entre su  C-inc&iacute;rculo mixtilinear y las rectas BC y CA, respectivamente. Probar que los puntos E, F, U, V, P y Q  est&aacute;n situados sobre una elipse y determinar el centro de &eacute;sta.</p>
+    <p>P&eacute;rez, M. A. (2022): Comunicaci&oacute;n personal.</p>
+    <p><a href="sol1061miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (18 de Octubre de 2022)</a></p>
+    <p>&nbsp;</p></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table width="943" border="1">
+  <tbody>
+    <tr>
+      <td><p><strong><em>Nuevo Curso (22 a&ntilde;os de trianguloscabri)</em></strong></p>
+        <p>Edici&oacute;n del 1 de Septiembre de 2022 al 15 de Octubre de 2022 (por motivos familiares)</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+      <p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+      <p>Problema 1057</p>
+      <p>Dado un segmento BC, determinar el lugar geom&eacute;trico que debe describir el punto A para<br />
+        que el ortocentro H, el A-Humpty punto H<sub>u</sub> y el A-Dumpty punto D<sub>u</sub> del tri&aacute;ngulo ABC sean conc&iacute;clicos<br />
+        con el punto A.</p>
+      <p>P&eacute;rez, M. A. (2022): Comunicaci&oacute;n personal.</p>
+      <p><a href="sol1057miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (28 de Septiembre de 2022)</a></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;<a href="sol1057phil.pdf">Soluci&oacute;n de Philippe Fondanaiche (3 de Octubre de 2022)</a></p>
+      <p>&nbsp;</p>
+      <p>Philippe Fondanaiche tiene<a href="http://www.diophante.fr/"> una p&aacute;gina web</a></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>Propuesto por &Aacute;ngel Montesdeoca Delgado, &nbsp;estudioso&nbsp;de&nbsp;Geometr&iacute;a</p>
+      <p>Problema 1058</p>
+      <p>Construir sobre los lados AB y AC de un tri&aacute;ngulo ABC pares de puntos B' y C', respectivamente, tales que AB' = B'C' = C'C.</p>
+      <p><a href="https://artofproblemsolving.com/community/c6t48f6h2873863">Fuente</a></p>
+      <p>Montesdeoca, A. (2022): Comunicaci&oacute;n personal.</p>
+      <p><a href="https://amontes.webs.ull.es/">Ángel Montesdeoca tiene una página web</a></p>
+      <p><a href="sol1058cesbe.pdf">Soluci&oacute;n de C&eacute;sar Beade Franco, profesor de matem&aacute;ticas jubilado de Cee (La Coru&ntilde;a)(1 de De Septiembre de 2022) </a></p>
+      <p>(N de D. (por despiste del director, aparece como el 1057. Gracias a C&eacute;sar de nuevo por su notificaci&oacute;n)</p>
+      <p><a href="sol1058miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (28 de Septiembre de 2022)</a></p>
+      <p><a href="sol1058phil.pdf">Soluci&oacute;n de Philippe Fondanaiche (3 de Octubre de 2022)</a></p>
+      <p>&nbsp;</p>
+      <p>Philippe Fondanaiche tiene<a href="http://www.diophante.fr/"> una p&aacute;gina web</a></p>
+      <p><a href="sol1058sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor de Matem&aacute;ticas jubilado, de Salamanca (5 de Octubre de 2022)</a></p>
+      <p>Propuesto por C&eacute;sar Beade Franco, profesor de matem&aacute;ticas jubilado de Cee (La Coru&ntilde;a)</p>
+      <p>Problema 1059</p>
+      <p>Dados 4 n&uacute;meros positivos a &gt;= b&gt;= c &gt;= d con a &lt;= b+c+d, construir
+      </p>
+      <p>un tri&aacute;ngulo y una paralela a uno de sus lados tales que los lados del trapecio que determinan midan a, b, c y d.</p>
+		  
+      <p>Beade, C. (2022): Comunicaci&oacute;n personal.</p>
+      <p><a href="sol1059cesbe.pdf">Soluci&oacute;n de C&eacute;sar Beade Franco, profesor de matem&aacute;ticas jubilado de Cee (La Coru&ntilde;a)(9 de Septiembre de 2022) </a></p>
+     
+      <p><a href="sol1059phil.pdf">Soluci&oacute;n de Philippe Fondanaiche (3 de Octubre de 2022)</a></p>
+      <p>&nbsp;</p>
+      <p>Philippe Fondanaiche tiene<a href="http://www.diophante.fr/"> una p&aacute;gina web</a></p>
+      <p><a href="sol1059sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor de Matem&aacute;ticas jubilado, de Salamanca (5 de Octubre de 2022)</a></p></td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table width="959" border="1">
+  <tbody>
+    <tr>
+      <td width="949"><p>Edici&oacute;n del 1 de Junio al 31 de Agosto de 2022 (por motivos familiares, ampl&iacute;o la edici&oacute;n veraniga ) Las soluciones se publicar&aacute;n a finales de agosto.</p>
+        <p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+        <p>&nbsp;</p>
+        <p>Problema 1054</p>
+        <p>Dado el tri&aacute;ngulo is&oacute;sceles que se muestra en la siguiente figura:</p>
+        
+      <p><img src="../curso20212022/pro1054.png" width="435" height="200" alt=""/></p>
+        <p>calcular b/a.</p>
+        <p>P&eacute;rez, M. A. (2022): Comunicaci&oacute;n personal.<br />
+          .</p>
+      <p><a href="sol1054miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (22 de Junio de 2022)</a></p>
+      <p>&nbsp;</p>
+      <p><a href="sol1054sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor de Matem&aacute;ticas jubilado, de Salamanca (19 de Julio de 2022)</a></p>
+      <p>&nbsp;</p>
+      <p><a href="sol1054dam.pdf">Soluci&oacute;n de Florentino Dami&aacute;n Aranda Ballesteros, profesor de Matem&aacute;ticas de C&oacute;rdoba (2 Agosto de 2022)</a></p>
+      <p>&nbsp;</p>
+      <p><a href="sol1054wil.jpg">Solución de William Rodríguez Chamache. profesor de geometría de la "Academia integral class" Trujillo- Perú.(7 de agosto de 2022)</a></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;<a href="sol1054phil.pdf">Soluci&oacute;n de Philippe Fondanaiche (25 de Agosto de 2022)</a></p>
+      <p><a href="sol1054bisphil.pdf">Ampliación del 1054 por Philippe Fondachaine (25 de Agosto de 2022)</a></p>
+      <p>Philippe Fondanaiche tiene<a href="http://www.diophante.fr/"> una p&aacute;gina web</a></p>
+      <p>&nbsp;</p>
+      <p><a href="sol1054hyoo.pdf">Soluci&oacute;n de Hyunbin Yoo, Sout Korea (31 de Agosto de 2022)</a></p></td>
+    </tr>
+    <tr>
+      <td><p>Problema 1055<br />
+        Sea ABC un tri&aacute;ngulo equil&aacute;terode inradio r, y sea &#8486;  una circunferencia gen&eacute;rica con centro en su incentro. <br />
+        Sea P un punto arbitrario de la misma.<br />
+        Probar que PA, PB y PC forman un tri&aacute;ngulo y que su &aacute;rea es constante.</p>
+        <p>Por ejemplo si el radio de &Omega; es 4r, el tri&aacute;ngulo formado tiene de &aacute;rea [ABC].</p>
+        <p>&nbsp;</p>
+        <p><br />
+      Barroso, R. (2022): Comunicaci&oacute;n personal. </p>
+      <p><a href="sol1055miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (22 de Junio de 2022)</a></p>
+      <p><a href="sol1055sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor de Matem&aacute;ticas jubilado, de Salamanca (19 de Julio de 2022)</a></p>
+      <p>&nbsp;</p>
+      <p><a href="sol1055dam.pdf">Soluci&oacute;n de Florentino Dami&aacute;n Aranda Ballesteros, profesor de Matem&aacute;ticas de C&oacute;rdoba (2 de Agosto de 2022)</a></p>
+      <p><a href="sol1055cesbe.pdf">Soluci&oacute;n de C&eacute;sar Beade Franco, profesor de matem&aacute;ticas jubilado de Cee (La Coru&ntilde;a)(22 de Agosto de 2022) </a></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;<a href="sol1055phil.pdf">Soluci&oacute;n de Philippe Fondanaiche (25 de Agosto de 2022)</a></p></td>
+    </tr>
+    <tr>
+      
+    <td height="412"> 
+      <p><a href="pro1056.htm">Problema 1056.- En un equil&aacute;tero. </a><br />
+        Sea ABC un tri&aacute;ngulo equil&aacute;tero, y sea <a >&#8486;</a> su 
+        circunferencia inscrita de radio r. <br />
+        Sea P un punto arbitrario de la misma.<br />
+        Construyamos los equil&aacute;teros PAD, PBE, PCF., y los APM, BPN, CPO.<br />
+        Probar que los tri&aacute;ngulos DEF y MNO son equivalentes a ABC<br />
+        Probar que las circunferencias circunscritas a DEF y a&nbsp; MNO son tangentes 
+        a&nbsp; &#8486;, tienen sus centros en &#8486; y sus radios son 2r.&nbsp; 
+        <br />
+        Barroso, R. (2022): Comunicaci&oacute;n personal. </p>
+      <p><a href="sol1056sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor de Matem&aacute;ticas jubilado, de Salamanca (19 de Julio de 2022)</a></p>
+      <p><a href="sol1056dam.pdf">Soluci&oacute;n de Florentino Dami&aacute;n 
+        Aranda Ballesteros, profesor de Matem&aacute;ticas de C&oacute;rdoba (2 
+        de Agosto de 2022)</a></p>
+      <p><a href="sol1056cesbe.pdf">Soluci&oacute;n de C&eacute;sar Beade Franco, profesor de matem&aacute;ticas jubilado de Cee (La Coru&ntilde;a)(22 de Agosto de 2022) </a></p>
+      <p>&nbsp;<a href="sol1056phil.pdf">Soluci&oacute;n de Philippe Fondanaiche 
+        (25 de Agosto de 2022)</a></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<table width="969" border="1">
+  <tbody>
+    <tr>
+      <td><p>Quincena del 16 al 31 de Mayo de 2022</p>
+        <p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+      <p>&nbsp;</p>
+      <p>Problema 1053</p>
+      <p>Dado un tri&aacute;ngulo ABC, se considera el punto M de intersecci&oacute;n entre la bisectriz interior  correspondiente al v&eacute;rtice A y la recta BC. </p>
+      <p>Construir un punto Q sobre la recta AM tal que,&#946;   + &#952;= &#960;  siendo &#946; y &#952; los &aacute;ngulos que se muestran en la siguiente figura,</p>
+      <p> en la que T y P son las proyecciones  ortogonales del punto Q sobre las rectas AB y AC, respectivamente.</p>
+      <p><img src="pro1053.png" width="432" height="384" alt=""/></p>
+      <p>P&eacute;rez, M. A. (2022): Comunicaci&oacute;n personal.</p>
+      <p>&nbsp;</p>
+      <p><a href="sol1053miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (17 de Mayo de 2022)</a></p>
+      <p><a href="sol1053angmon.pdf">Soluci&oacute;n de &nbsp;Angel&nbsp;Montesdeoca&nbsp;Delgado&nbsp;estudioso&nbsp;de&nbsp;Geometr&iacute;a (20 de Mayo de 2022)</a></p>
+      <p><a href="https://amontes.webs.ull.es/otrashtm/HGT2022.htm">Angel Montesdeoca edita Hechos Geométricos en el Triángulo</a></p>
+      <p><a href="sol1053garcap.pdf">Soluci&oacute;n de Francisco Javier Garc&iacute;a Capit&aacute;n, profesor del IES &Aacute;lvarez Cubero (Priego de C&oacute;rdoba) (24 de Mayo de 2022)</a></p>
+      <p>El profesor Garc&iacute;a Capit&aacute;n edita un&nbsp;<a href="http://garciacapitan.blogspot.com/">blog</a></p></td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<table width="906" border="1">
+  <tbody> 
+  <tr> 
+    <td>
+      <p>Propuesto por Juan Jos&eacute; Isach Mayo, Espa&ntilde;a.</p>
+      <p>Problema 1052</p>
+      <p><img src="../curso20212022/pro1052.jpg" alt="" width="716" height="451"/></p>
+      <p>Isach , J.J. : (2022): Comunicaci&oacute;n personal.</p>
+      <p>Modificado el 2 de Mayo de 2022 por un error del director.Agradezco a 
+        Miguel Angel P&eacute;rez su atenci&oacute;n. Mis disculpas a Juan Jos&eacute; 
+        Isach.</p>
+      <p>&nbsp;</p>
+      <p><a href="sol1052miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez 
+        Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; 
+        Gallardo&quot; de Campanario (Badajoz). (2 de Mayo de 2022)</a> </p>
+      <a href="sol1052dam.pdf">Solución de Florentino Damián Aranda Ballesteros, 
+      profesor de Matemáticas de Córdoba (7 Mayo de 2022)</a> 
+      <p><a href="sol1052sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor 
+        de Matem&aacute;ticas jubilado, de Salamanca (8 de Mayo de 2022)</a></p>
+      <p><a href="sol1052cesbe.pdf">Soluci&oacute;n de C&eacute;sar Beade Franco, 
+        profesor de matem&aacute;ticas jubilado de Cee (La Coru&ntilde;a)(10 de 
+        Mayo de 2022) </a></p>
+    </td>
+  </tr>
+  </tbody> 
+</table>
+<table width="894" border="1">
+  <tbody>
+    <tr>
+      <td width="884"><p>Agradezco al profesor Florentino Dami&aacute;n Aranda Ballesteros el env&iacute;o de los <a href="faselocalLVIIIOME.pdf">problemas</a> de la fase local de la LVIII OME de 2022.</p>
+        <p>,El problema segundo est&aacute; dedicado a la geometr&iacute;a del tri&aacute;ngulo.</p>
+        <p><img src="fl2022ome.png" width="742" height="100" alt=""/></p>
+        <p><a href="Problema2LVIII OlimpiadaFase Localdam.pdf">Soluci&oacute;n de Florentino Dami&aacute;n Aranda Ballesteros, profesor de Matem&aacute;ticas de C&oacute;rdoba (26 Enero de 2022)</a></p>
+        <p><a href="fl2022CLedi.pdf">Soluci&oacute;n del director (27 de Enero de 2022)</a></p>
+        <p><a href="fl2022CLmiguel.pdf">Soluci&oacute;n  de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (3 de Mayo de 2022)</a></p></td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<p><a href="../curso20072008/sol429miguel.pdf">Soluci&oacute;n  del problema 429 de diciambre de 2007 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (2 de Mayo de 2022)</a></p>
+<p><a href="../curso20072008/sol431miguel.pdf">Soluci&oacute;n  del problema 431 de Enero de 2008 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (2 de Mayo de 2022)</a></p>
+<p><a href="../curso20072008/sol442miguel.pdf">Soluci&oacute;n  del problema 442 de Marzo de 2008 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (2 de Mayo de 2022)</a></p>
+<p><a href="../curso20072008/">Curso 2007-08</a></p>
+<p>&nbsp;</p>
+<table width="1145" border="1">
+  <tbody>
+    <tr>
+      <td width="1135"><p>Quincena del 16 al 30 de Abril de 2022</p>
+        <p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de   Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+        <p>Problema 1048</p>
+        <p>Dado un tri&aacute;ngulo ABC con AB&#8800; AC, se consideran dos puntos P y Q situados en las<br />
+          rectas AB y AC, respectivamente, tales que:<br />
+          AP/
+          AB = AQ/ 
+          AC<br />
+          Las rectas CP y BQ cortan a la circunferencia circunscrita al tri&aacute;ngulo ABC en segundos puntos U y V,<br />
+          respectivamente. Determinar y representar gr&aacute;ficamente la curva envolvente de las rectas UV cuando el punto<br />
+          P recorre la recta AB.</p>
+      <p>P&eacute;rez, M. A. (2022): Comunicaci&oacute;n personal. </p>
+      <p><a href="sol1048miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (16 de Abril de 2022)</a></p>
+      <p>&nbsp;</p>
+      <p><a href="sol1048cesbe.pdf">Soluci&oacute;n de C&eacute;sar Beade Franco, profesor de matem&aacute;ticas jubilado de Cee (La Coru&ntilde;a)(25 de Abril de 2022) </a></p></td>
+    </tr>
+    <tr>
+      <td><p>Propuesto por Philippe Fondanaiche </p>
+        <p>Philippe Fondanaiche tiene<a href="http://www.diophante.fr/"> una p&aacute;gina web</a></p>
+        <p>Problema 1049</p>
+        <p>Considere  un tri&aacute;ngulo is&oacute;sceles ABC (AB = AC) cuyo &aacute;ngulo en A es obtuso y el c&iacute;rculo  (&Gamma;) con centro A y radio AB. <br />
+          Sea el punto D sobre la recta [AB] tal que AD = BC con B ubicado entre A y D. <br />
+          La recta [CD] interseca (&Gamma;) en el punto E. <br />
+          Sea el punto F sobre el segmento AB tal que AF = BE. <br />
+          Demostrar que el tri&aacute;ngulo DEF es is&oacute;sceles de v&eacute;rtice E si y s&oacute;lo si el &aacute;ngulo  &alpha; = &#8249; BAC  toma un cierto valor &alpha;0 que determinaremos.</p>
+      <p>Fondanaiche, P. (2022): Comunicaci&oacute;n personal. </p>
+      <p>&nbsp;</p>
+      <p><a href="sol1049miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (16 de Abril de 2022)</a></p>
+      <p>&nbsp;</p>
+      <p><a href="sol1049phil.pdf">Soluci&oacute;n de Philippe Fondanaiche (19 de Abril de 2022)</a></p>
+      <p>Philippe Fondanaiche tiene<a href="http://www.diophante.fr/"> una p&aacute;gina web</a></p></td>
+    </tr>
+    <tr>
+      <td><p>Propuesto por  Juan Jos&eacute; Isach Mayo, Espa&ntilde;a.</p>
+        <p> Problema 1050</p>
+        <p><img src="pro1050.png" width="1364" height="714" alt=""/></p>
+      <p>Isach , J:J: (2022): Comunicaci&oacute;n personal. </p>
+      <p>&nbsp;</p>
+      <p><a href="sol1050miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (17 de Abril de 2022)</a></p>
+      <p>&nbsp;</p>
+      <p><a href="sol1050phil.pdf">Soluci&oacute;n de Philippe Fondanaiche (19 de Abril de 2022)</a></p>
+      <p>Philippe Fondanaiche tiene<a href="http://www.diophante.fr/"> una p&aacute;gina web</a></p>
+      <p>&nbsp;</p>
+      <p><a href="sol1050cesbe.pdf">Soluci&oacute;n de C&eacute;sar Beade Franco, profesor de matem&aacute;ticas jubilado de Cee (La Coru&ntilde;a)(25 de Abril de 2022) </a></p>
+      <p><a href="sol1050sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor de Matem&aacute;ticas jubilado, de Salamanca (25 de Abril  de 2022)</a></p>
+      <p>&nbsp;</p>
+      <p><a href="sol1050dam.pdf">Soluci&oacute;n de Florentino Dami&aacute;n Aranda Ballesteros, profesor de Matem&aacute;ticas de C&oacute;rdoba (26 de Abril de 2022)</a></p></td>
+    </tr>
+  </tbody>
+</table>
+<p><a href="../curso20072008/sol414miguel.pdf">Soluci&oacute;n del problema  414 de Noviembre de 2007 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (12 de Abril de 2022)</a></p>
+<p><a href="../curso20072008/sol415miguel.pdf">Soluci&oacute;n del problema  415 de   noviembre de 2007 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (12 de Abril de 2022)</a></p>
+<p><a href="../curso20072008/sol416miguel.pdf">Soluci&oacute;n del problema  416 de  Noviembre de 2007 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (12 de Abril de 2022)</a></p>
+<p><a href="../curso20072008/sol417miguel.pdf">Soluci&oacute;n del problema  417 de  Noviembre de 2007 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (12 de Abril de 2022)</a></p>
+<p><a href="../curso20072008/sol428miguel.pdf">Soluci&oacute;n del problema  428 de Diciembre de 2007  de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (12 de Abril de 2022)</a></p>
+<p><a href="https://personal.us.es/rbarroso/trianguloscabri/curso0708.htm">Curso 2007-08</a></p>
+<p>El n&uacute;mero<a href="ammfeb2022.png"> 2 de 2022</a> de la revista The American Mathematical Monthly hace referencia en el problema 12190 a<a href="solution12190barroso.pdf"> mi soluci&oacute;n</a>. Agradezco a los editores la gentileza.</p>
+<table width="1138" border="1">
+  <tbody>
+    <tr>
+      <td width="1128" height="61"><p>Quincena del 1 al 15 de abril de 2022</p>
+        <p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de   Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+        <p>Problema 1046</p>
+        <p>Dado un tri&aacute;ngulo ABC, se consideran dos puntos P y Q situados en las rectas BC y CA,   respectivamente, tales que:  BP  /BC = CQ/  CA  Las rectas AP y BQ cortan a la circunelipse de Steiner del tri&aacute;ngulo ABC en segundos puntos U y V,   respectivamente. Determinar y representar gr&aacute;ficamente la curva envolvente de las rectas UV cuando el punto   P recorre la recta BC</p>
+        <p>P&eacute;rez, M. A. (2022): Comunicaci&oacute;n personal. </p>
+        <p><a href="sol1046miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (1de Abril de 2022)</a></p>
+        <p><a href="sol1046cesbe.pdf">Soluci&oacute;n de C&eacute;sar Beade Franco, profesor de matem&aacute;ticas jubilado de Cee (La Coru&ntilde;a)(8 de Abril de 2022) </a></p></td>
+    </tr>
+    <tr>
+      <td height="77"><p>Propuesto por Thanasis Gakopoulos,Grecia, y Juan Jos&eacute; Isach Mayo, Espa&ntilde;a.</p>
+        <p> Problema 1047</p>
+        <p><img src="pro1047.png" width="578" height="569" alt=""/></p>
+        <p> Gakopoulos, T. e Isach, J:J. (2022) Comunicaci&oacute;n personal.</p>
+        <p>Agradezco al profesor Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega la atenci&oacute;n al indicarme que  Thanasis Gakopoulos es de ,Grecia y no de Ruman&iacute;a como puse equivocadamente y , el que el problema 1047 ha sido publicado en la Gaceta Matem&aacute;tica.</p>
+        <p><a href="sol1047miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (1de Abril de 2022)</a></p>
+        <p>&nbsp;</p>
+        <p><a href="sol1047sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor de Matem&aacute;ticas jubilado, de Salamanca (5 de Abril  de 2022)</a></p></td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<p>Soluci&oacute;n del <a href="../curso20072008/sol411miguel.pdf">problema 411</a> de Octubre de 2007 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (28 de Marzo de 2022)</p>
+<p><a href="https://personal.us.es/rbarroso/trianguloscabri/curso0708.htm"></a></p>
+<p><a href="sol847miguel.pdf">Soluci&oacute;n del problema 855 de Oc</a><a href="../curso20172018/sol847miguel.pdf">tubre de 2017 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (28 de Marzo de 2022)</a></p>
+<p><a href="../curso20172018/sol857miguel.pdf">Soluci&oacute;n del problema 857 de Noviembre de 2017 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (28 de Marzo de 2022)</a></p>
+<p><a href="../curso20172018/sol860miguel.pdf">Soluci&oacute;n del problema 860 de Dicembre de 2017 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (28 de Marzo de 2022)</a></p>
+<p><a href="../curso20172018/sol869miguel.pdf">Soluci&oacute;n del problema 869 de Febrero de 2018 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (28 de Marzo de 2022)</a></p>
+<p><a href="../curso20172018/sol879miguel.pdf">Soluci&oacute;n del problema 879 de Mayo de 2018 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (28 de Marzo de 2022)</a></p>
+<p><a href="https://personal.us.es/rbarroso/trianguloscabri/curso1718.htm">Curso 2017-18</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table width="1117" border="1">
+  <tr>
+    <td width="1107"><p>Edici&oacute;n del 16 de Marzo de 2022</p>
+    <p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de   Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+    <p>Problema 1042</p>
+    <p>Dado un tri&aacute;ngulo ABC con inradio r y circunradio R y cuyos lados tienen lontitudes a, b y c, probar que: </p>
+    <p><img src="pro1042.png" width="544" height="168" /></p>
+    <p>P&eacute;rez, M. A. (2022): Comunicaci&oacute;n personal. </p>
+    <p><a href="sol1042miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (17 de Marzo de 2022)</a></p>
+    <p>&nbsp;</p>
+    <p><a href="sol1042dam.pdf">Soluci&oacute;n de Florentino Dami&aacute;n Aranda Ballesteros, profesor de Matem&aacute;ticas de C&oacute;rdoba (19 de Marzo de 2022)</a></p>
+    <p><a href="sol1042cesbe.pdf">Soluci&oacute;n de C&eacute;sar Beade Franco, profesor de matem&aacute;ticas jubilado de Cee (La Coru&ntilde;a)(20 de Marzo de 2022) </a></p>
+    <p>&nbsp; </p></td>
+  </tr>
+  <tr>
+    <td><p>Propuesto por  Juan Jos&eacute; Isach Mayo, Espa&ntilde;a.</p>
+      <p> Problema 1043</p>
+      <p><img src="pro1043.png" width="862" height="454" /></p>
+      <p>&nbsp;</p>
+    <p>Isach , J:J: (2022): Comunicaci&oacute;n personal. </p>
+    <p>&nbsp;</p>
+    <p><a href="sol1043miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (17 de Marzo de 2022)</a></p>
+    <p>&nbsp;</p>
+    <p><a href="sol1043dam.pdf">Soluci&oacute;n de Florentino Dami&aacute;n Aranda Ballesteros, profesor de Matem&aacute;ticas de C&oacute;rdoba (19 de Marzo de 2022)</a></p>
+    <p>&nbsp;</p>
+    <p><a href="sol1043sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor de Matem&aacute;ticas jubilado, de Salamanca (25 de Marzo  de 2022)</a></p></td>
+  </tr>
+  <tr>
+    <td><p>Propuesto por Philippe Fondanaiche </p>
+      <p>Philippe Fondanaiche tiene<a href="http://www.diophante.fr/"> una p&aacute;gina web</a></p>
+      <p>Problema 1044</p>
+      <p>Sea BC una cuerda del circulo (&Gamma;) de centro O.</p>
+      <p> Desde un  punto P sobre la derecha [BC], trazamos el circulo circunscrito al tri&aacute;ngulo  BOP que corta (&Gamma;) en un segundo punto A .</p>
+      <p> Determine el lugar geometrico del  centro &omega; del c&iacute;rculo (&gamma;) circunscrito al tri&aacute;ngulo APC.</p>
+      <p>Fondanaiche, P. (2022): Comunicaci&oacute;n personal. </p>
+      <p>&nbsp;</p>
+      <p><a href="sol1044miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (17de Marzo de 2022)</a></p>
+      <p>&nbsp;</p>
+      <p><a href="sol1044dam.pdf">Soluci&oacute;n de Florentino Dami&aacute;n Aranda Ballesteros, profesor de Matem&aacute;ticas de C&oacute;rdoba (19 de Marzo de 2022)</a></p>
+      <p><a href="sol1044cesbe.pdf">Soluci&oacute;n de C&eacute;sar Beade Franco, profesor de matem&aacute;ticas jubilado de Cee (La Coru&ntilde;a)(20 de Marzo de 2022) </a></p>
+      <p><a href="sol1044phil.pdf">Soluci&oacute;n de Philippe Fondanaiche (21 de Marzo de 202)</a></p>
+    <p></p></td>
+  </tr>
+  <tr>
+    <td><p>Propuesto por Jean Louis Aym&eacute;, webmaster de <a href="http://jl.ayme.pagesperso-orange.fr/">Geometry, G&eacute;om&eacute;trie , Geometr&iacute;a </a></p>
+      <p>Problema 1045 </p>
+      <p><img src="pro1045.png" width="299" height="320" /></p>
+      <p>Traits :		ABC 	un triangle acutangle, P 	un point de [BC], 1	le cercle circonscrit au triangle APC, </p>
+      <p>R 	le second point d'intersection de 1 avec [AB], Q 	le point d'intersection de (PR) et (AC), et</p>
+      <p> I, J, K 	les milieux resp. de [AP], [BQ], [CR]. </p>
+      <p>Donn&eacute; :		le cercle passant par B, I et K est tangent &agrave; (BQ). </p>
+    <p>Aym&eacute;, J.L: (2022): Comunicaci&oacute;n personal </p>
+    <p><a href="sol1045ayme.pdf">Solución de Jean Louis Aymé (16 de Mazo de 2022)</a></p>
+    <p><a href="sol1045miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (17 de Marzo de 2022)</a></p></td>
+  </tr>
+</table>
+<p><a href="../curso20162017/sol819miguel.pdf">Soluci&oacute;n del problema 819 de Abril de 2017 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (14 de Marzo de 2022)</a></p>
+<p><a href="../curso20162017/sol820miguel.pdf">Soluci&oacute;n del problema 820 de Abril de 2017 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (14 de Marzo de 2022)</a></p>
+<p><a href="../curso20162017/sol836miguel.pdf">Soluci&oacute;n del problema 836 de Junio de 2017 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (14 de Marzo de 2022)</a></p>
+<p><a href="../curso20162017/sol839miguel.pdf">Soluci&oacute;n del problema 839 de Julio de 2017 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (14 de Marzo de 2022)</a></p>
+<p>. <a href="../curso20162017/">El curso 16-17 de esta revista</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table width="1130" border="1">
+  <tbody>
+    <tr>
+      <td width="1120"><p>Quincena del 1 al 15 de Marzo de 2022</p>
+        <p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+        <p>Problema 1039</p>
+        <p>Dado un segmento BC, determinar el lugar geom&eacute;trico que debe  describir el punto A para 
+          que la A-Soddy hip&eacute;rbola del tri&aacute;ngulo ABC (hip&eacute;rbola que  pasa por el punto A y cuyos focos son los puntos   
+          B y C) pase por el ortocentro del tri&aacute;ngulo ABC.</p>
+      <p>P&eacute;rez, M. A. (2022): Comunicaci&oacute;n personal.</p>
+      <p><a href="sol1039miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (2 de Marzo de 2022)</a></p>
+      <p><a href="sol1039cesbe.pdf">Soluci&oacute;n de C&eacute;sar Beade Franco, profesor de matem&aacute;ticas jubilado de Cee (La Coru&ntilde;a)(4 de Marzo de 2022) </a></p>
+      <p>&nbsp;</p></td>
+    </tr>
+    <tr>
+      <td><p>Propuesto por Marian  Cucoanes, Ruman&iacute;a, y Juan Jos&eacute; Isach Mayo, Espa&ntilde;a.</p>
+        <p>Problema 1040</p>
+        <p>Se considera un tri&aacute;ngulo ABC tal que 3&ang;BAC  + &ang;ACB  = 2&pi;. Sean I y r el        incentro y el inradio del tri&aacute;ngulo ABC. Sean J y r<sub>1</sub> el  incentro y el inradio del<br />
+          tri&aacute;ngulo AIC. Sea D el punto de intersecci&oacute;n de las rectas  IJ y AC. Finalmente, 
+          sean K y r<sub>2</sub> el incentro y el inradio del tri&aacute;ngulo AID.  Probar que 1/r<sub>2</sub>=1/r +1/r<sub>1</sub>.</p>
+      <p>Cucoanes, M. Isach, J.J. (2022): Comunicaci&oacute;n personal.</p>
+      <p>Nota de los proponentes: este problema se ha publicado en el n&uacute;mero 3 del volumen 24 de 2021 de la <a href="http://gaceta.rsme.es/abrir.php?id=1660">Gaceta Matemática</a> de la RSME</p>
+      <p><a href="sol1040phil.pdf">Soluci&oacute;n de Philippe Fondanaiche (2 de Marzo de 2022)</a></p>
+      <p><a href="sol1040miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (2 de Marzo de 2022)</a></p>
+      <p><a href="sol1040dam.pdf">Soluci&oacute;n de Florentino Dami&aacute;n Aranda Ballesteros, profesor de Matem&aacute;ticas de C&oacute;rdoba (7 de Marzo de 2022)</a></p>
+      <p><a href="sol1040sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor de Matem&aacute;ticas jubilado, de Salamanca (7 de Marzo  de 2022)</a></p>
+      <p>&nbsp;</p></td>
+    </tr>
+    <tr>
+      <td><p>Propuesto por Philippe Fondanaiche </p>
+        <p>Philippe Fondanaiche tiene<a href="http://www.diophante.fr/"> una p&aacute;gina web</a></p>
+        <p>Problema 1041</p>
+        <p>Sean  dos pent&aacute;gonos regulares de lados iguales, OADHJ y KLMED, construidos tales que  OA KL est&eacute;n situados en linea recta, y que el segmento OD=1 ( O , D y E  l&oacute;gicamente est&aacute;n en linea recta) . <br />
+          Sea  la recta OBCF con B interior a AD , C interior a DK, y F interior a ME. <br />
+          Sean  AB=a, CD=b, FE=c. <br />
+          La  construcci&oacute;n de BCF se hace de manera que se verfica que &nbsp;S=[OAB]=[CDEF]. Demostrar que a=b+c+bc &nbsp;&nbsp;</p>
+      <p>Fondanaiche, P. (2022): Comunicaci&oacute;n personal.</p>
+      <p>&nbsp;</p>
+      <p><a href="sol1041phil.pdf">Soluci&oacute;n de Philippe Fondanaiche (2 de Marzo de 2022)</a></p>
+      <p>&nbsp;</p>
+      <p><a href="sol1041miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (2 de Marzo de 2022)</a></p></td>
+    </tr>
+  </tbody>
+</table>
+<p><a href="../curso20162017/sol832miguel.pdf">Soluci&oacute;n del problema 832 de Junio de 2017 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (4 de Marzo de 2022)</a></p>
+<p>El profesor indica que el problema est&aacute; incompleto en su enunciado quedando as&iacute;:</p>
+<p>Problema 832. (propuesto por Philippe Fondanaiche) Dado un tri&aacute;ngulo ABC tal que &lt;CAB=pi/4 , se <br />
+  consideran el punto sim&eacute;trico D del punto A con respecto al punto medio L del segmento BC y los puntos<br />
+  medios M y N de los segmentos BD y CD, respectivamente. Probar que los puntos A, M, N y C son<br />
+  conc&iacute;clicos si y s&oacute;lo si &oacute; &lt;BAC=pi/3 o &lt;BAC=2 pi/3. </p>
+<p>Agradezco la gentileza. </p>
+<p>. <a href="https://personal.us.es/rbarroso/trianguloscabri/curso1617.htm">El curso 16-17 de esta revista</a></p>
+<p><a href="../curso20162017/sol805miguel.pdf">Soluci&oacute;n del problema 805 de Febrero de 2017 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (25 de Febrero de 2022)</a></p>
+<p><a href="../curso20162017/sol806miguel.pdf">Soluci&oacute;n del problema 806 de Febrero de 2017 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (25 de Febrero de 2022)</a></p>
+<p><a href="../curso20162017/sol807miguel.pdf">Soluci&oacute;n del problema 807 de Febrero de 2017 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (25 de Febrero de 2022)</a></p>
+<p><a href="../curso20162017/sol811miguel.pdf">Soluci&oacute;n del problema 811 de Marzo  de 2017 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (25 de Febrero de 2022)</a></p>
+<p><a href="../curso20162017/sol812miguel.pdf">Soluci&oacute;n del problema 812 de Marzo de 2017 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (25 de Febrero de 2022)</a></p>
+<p><a href="../curso20162017/sol818miguel.pdf">Soluci&oacute;n del problema 818 de Abril de 2017 de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (25 de Febrero de 2022)</a></p>
+<p><a href="../curso20162017/">El curso 16-17 de esta revista</a></p>
+<table width="1044" border="1">
+  <tbody>
+    <tr>
+      <td width="1034" height="367"><p>Quincena del 15 al 28 de Febrero de 2022 </p>
+        <p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+        <p>Problema 1037</p>
+        <p>Dado un tri&aacute;ngulo ABC acut&aacute;ngulo en A, determinar el lugar geom&eacute;trico que describe un punto P   tal que:  PA<sup>2</sup> = PB<sup>2</sup> + PC<sup>2</sup></p>
+      <p>P&eacute;rez, M. A. (2022): Comunicaci&oacute;n personal.</p>
+      <p><a href="sol1037miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (17 de Febrero de 2022)</a></p>
+      
+      <p><a href="sol1037dam.pdf">Soluci&oacute;n de Florentino Dami&aacute;n Aranda Ballesteros, profesor de Matem&aacute;ticas de C&oacute;rdoba (17 de Febrero de 2022)</a></p>
+      <p><a href="sol1037phil.pdf">Soluci&oacute;n de Philippe Fondanaiche (19 de Febrero de 2022)</a></p>
+      <p>Philippe Fondanaiche tiene<a href="http://www.diophante.fr/"> una página web</a></p>
+      <p><a href="sol1037cesbe.pdf">Soluci&oacute;n de C&eacute;sar Beade Franco, profesor de matem&aacute;ticas jubilado de Cee (La Coru&ntilde;a) </a></p>
+      <p><a href="sol1037edi.pdf">Solución del director (25 de Febrero de 2022)</a></p></td>
+    </tr>
+    <tr>
+      <td><p>Propuesto por Juan Jos&eacute; Isach Mayo, Profesor de Matem&aacute;ticas (Jubilado) ..</p>
+        <p>Problema 1038</p>
+        <p>A partir de un pent&aacute;gono regular  ABCDE de lado m, se construye un cuadril&aacute;tero NFMA de lados iguales, tomando el punto medio F de un lado DC y el v&eacute;rtice opuesto A.</p>
+        <p>La mediatriz de FA corta en N a ED y en&nbsp; M a BC. Sea r el inradio del tri&aacute;ngulo AMF. Calcular r en funci&oacute;n de m.</p>
+        <p>Este problema est&aacute; inspirado en un problema de <a href="https://www.google.com/search?q=fletcher+mattox+math&amp;sxsrf=APq-WBuhK4J7OPjbN7M5GGO5CVrD-o2TAQ:1644849599825&amp;tbm=isch&amp;source=iu&amp;ictx=1&amp;vet=1&amp;fir=97_h2zlceKlWkM%252C9bBebbhluuioUM%252C_%253BCyN1W5IJm2t2GM%252CsvuPkh-WONIbLM%252C_%253BR46MnwKFUbuZLM%252CsvuPkh-WONIbLM%252C_%253B_FbcshWE4cDVoM%252CsvuPkh-WONIbLM%252C_%253BRh6kVEMx2CF4WM%252CsvuPkh-WONIbLM%252C_%253BPRZjKC0kS285dM%252CAlBL52ghzBjsjM%252C_%253BfMlxzosueHP_WM%252C9bBebbhluuioUM%252C_%253BtBtzVptHX78CtM%252CsvuPkh-WONIbLM%252C_%253BmsHhSu9gxmtTgM%252CsvuPkh-WONIbLM%252C_%253BiJgMJMUl1lKWyM%252CsvuPkh-WONIbLM%252C_&amp;usg=AI4_-kTe_rUwqAgFfNUncxSxSsZBpOLipQ&amp;sa=X&amp;ved=2ahUKEwjk2uygtv_1AhW6gf0HHcAEBTsQ9QF6BAgZEAE#imgrc=R46MnwKFUbuZLM">Fletcher Mattox</a> y ha sido publicado en el grupo <a href="https://www.facebook.com/groups/perugeometrico1">Per&uacute; Geom&eacute;trico</a>. </p>
+        <p>Isach: J.J: (2022): Comunicaci&oacute;n personal.</p>
+      <p><a href="sol1038miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (17 de Febrero de 2022)</a></p>
+      <p><a href="sol1038dam.pdf">Soluci&oacute;n de Florentino Dami&aacute;n Aranda Ballesteros, profesor de Matem&aacute;ticas de C&oacute;rdoba (14 de Febrero de 2022)</a></p>
+      <p><a href="sol1038phil.pdf">Soluci&oacute;n de Philippe Fondanaiche (19 de Febrero de 2022)</a></p>
+      <p>Philippe Fondanaiche tiene<a href="http://www.diophante.fr/"> una p&aacute;gina web</a></p>
+      <p><a href="sol1038cesbe.pdf">Soluci&oacute;n de C&eacute;sar Beade Franco, profesor de matem&aacute;ticas jubilado de Cee (La Coru&ntilde;a)(24 de Febrero de 2022)</a></p>
+      <p><a href="sol1038sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor de Matem&aacute;ticas jubilado, de Salamanca (24 de Febrero  de 2022)</a></p>
+      <p><a href="sol1038edi.pdf">Soluci&oacute;n del director (25 de Febrero de 2022)</a></p></td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<table width="939" border="1">
+  <tbody>
+    <tr>
+      <td width="929"><p>La Gaceta Matem&aacute;tica (N&uacute;mero 1 de 2022) publica la<a href="http://gaceta.rsme.es/abrir.php?id=1675"> soluci&oacute;n del problema 409 </a>y hace menci&oacute;n de <a href="SoldeRicardoBarrosoCamposgm 409.pdf">mi soluci&oacute;n</a>.</p>
+        <p><a href="problemagm409miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz).</a></p>
+        <p><a href="Gaceta409cesbe.pdf">Soluci&oacute;n de C&eacute;sar Beade Franco, profesor de matem&aacute;ticas jubilado de Cee (La Coru&ntilde;a) </a></p>
+        <p><a href="Problema409La GacetaFlorentinoDami&aacute;nArandaBallesteros.pdf">Soluci&oacute;n de de Florentino Dami&aacute;n Aranda Ballesteros, profesor de Matem&aacute;ticas de C&oacute;rdoba </a></p></td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table width="1049" border="1">
+  <tbody>
+    <tr>
+      <td width="1039"><p>Quincena del 1 al 14 de febrero de 2022</p>
+      <p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+      <p>Problema 1035</p>
+      <p>Dado un tri&aacute;ngulo heptagonal con inradio r y circunradio R,  determinar r/R , probar que r/R es &nbsp;algebraico, justificar que &nbsp;Q(r/R) es un es un cuerpo y calcular (r/R)<sup>-1</sup> en Q(r/R).</p>
+      <p>P&eacute;rez, M. A. (2022): Comunicaci&oacute;n personal.</p>
+      <p>&nbsp;</p>
+      <p><a href="sol1035miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (2 de Febrero de 2022)</a></p>
+      <p><a href="sol1035sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor de Matem&aacute;ticas jubilado, de Salamanca (11 de Febrero  de 2022)</a></p></td>
+    </tr>
+    <tr>
+      <td><p>Propuesta de&nbsp;C&eacute;sar Beade&nbsp;Franco, profesor de matem&aacute;ticas jubilado de Cee&nbsp;(La Coru&ntilde;a) </p>
+        <p>Problema 1036</p>
+        <p>Dados 2  puntos, B y C sobre una circunferencia situar sobre la misma otro punto A tal  qu&eacute; el tri&aacute;ngulo ABC tenga per&iacute;metro m&aacute;ximo.</p>
+      <p>Beade, C. (2022): Comunicaci&oacute;n personal.</p>
+      <p><a href="sol1036miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (2 de Febrero de 2022)</a></p>
+      <p><a href="sol1036cesbe.pdf">Soluci&oacute;n de&nbsp;C&eacute;sar Beade&nbsp;Franco, profesor de matem&aacute;ticas jubilado de Cee&nbsp;(La Coru&ntilde;a) (7 de Febrero  de 2022)</a></p>
+      <p><a href="sol1036sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor de Matem&aacute;ticas jubilado, de Salamanca (9 de Febrero  de 2022)</a></p>
+      <p><a href="sol1036edi.pdf">Soluci&oacute;n del director (10 de Febrero de 2022)</a></p>
+      <p><a href="sol1036phil.pdf">Soluci&oacute;n de Philippe Fondanaiche (11 de Febrero de 2022)</a></p>
+      <p><a href="sol1036dam.pdf">Soluci&oacute;n de Florentino Dami&aacute;n Aranda Ballesteros, profesor de Matem&aacute;ticas de C&oacute;rdoba (14 de Febrero de 2022)</a></p></td>
+    </tr>
+  </tbody>
+</table>
+<table width="886" border="1">
+  <tbody>
+    <tr>
+      <td><p>Agradezco al profesor Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas   en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz) el env&iacute;o de los <a href="fl2022OME.jpg">problemas</a> de la fase local de Castilla y Le&oacute;n de la LVIII OME de 2022.</p>
+        <p>El cuarto problema est&aacute; dedicado a la geometr&iacute;a del tri&aacute;ngulo.</p>
+        <p><img src="pro4flcastillayleon2022ome.png" width="1045" height="144" alt=""/></p>
+        <p><a href="fl2022castillayle&oacute;nsolmiguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (28 de Enero de 2022)</a></p>
+        <p><a href="fl2022castillayleonpro4edi.pdf">Soluci&oacute;n del director (28 de Enero de 2022)</a></p></td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table width="1132" border="1">
+  <tbody>
+    <tr>
+      <td width="1122"><p>Edici&oacute;n del 16 al 31 de Enero de 2022</p>
+        <p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas   en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+        <p>Problema 1033</p>
+        <p>1)
+          Dado un tri&aacute;ngulo<span role="presentation"> </span><span role="presentation">ABC</span><span role="presentation"> </span><span role="presentation">con  puntos de Brocard &#937;<sub>1</sub></span><span role="presentation"> </span> <span role="presentation">y &#937; <sub>2</sub></span><span role="presentation">probar que</span>,<br role="presentation" />
+          <span role="presentation">&nbsp;a) </span>El punto medio<span role="presentation"> </span><span role="presentation">M</span><span role="presentation"> </span><span role="presentation">del segmento</span><span role="presentation">W</span><span role="presentation">1</span><span role="presentation">W</span><span role="presentation">2</span> <span role="presentation">est&aacute; situado sobre la recta de Euler del tri&aacute;ngulo</span><span role="presentation"> </span><span role="presentation">ABC</span><span role="presentation"> </span><span role="presentation">si</span><span role="presentation"> y s&oacute;lo si dicho tri&aacute;ngulo es is&oacute;sceles.</span><br role="presentation" />
+          <span role="presentation">b) </span> <span role="presentation">El punto medio</span><span role="presentation"> </span><span role="presentation">M</span><span role="presentation"> </span><span role="presentation">del segmento</span><span role="presentation"><span role="presentation"> &#937;<sub>1</sub></span><span role="presentation"> </span> <span role="presentation">&#937; <sub>2</sub></span></span><span role="presentation">nunca est&aacute; situado sobre la circunferencia de Euler del</span><span role="presentation"> tri&aacute;ngulo</span><span role="presentation"> </span><span role="presentation">ABC</span><span role="presentation">.</span><br role="presentation" />
+          <span role="presentation">2) &nbsp;</span> <span role="presentation">Fijado un segmento</span><span role="presentation"> </span><span role="presentation">BC</span><span role="presentation">, determinar el lugar  geom&eacute;trico que debe describir el punto</span><span role="presentation"> </span><span role="presentation">A</span><span role="presentation"> </span><span role="presentation">para que:</span><br role="presentation" />
+          <span role="presentation">a) &nbsp;</span> <span role="presentation">El tercer punto de Brocard</span><span role="presentation"> </span><span role="presentation">X</span><span role="presentation">76</span> del tri&aacute;ngulo<span role="presentation"> </span><span role="presentation">ABC</span><span role="presentation"> </span><span role="presentation">est&eacute;  situado sobre la recta mediatriz del</span><span role="presentation"> segmento</span><span role="presentation"> </span><span role="presentation">BC.</span><br role="presentation" />
+          <span role="presentation">b) </span> <span role="presentation">Los puntos de Brocard</span><span role="presentation"> </span><span role="presentation">&#937;<sub>1</sub></span><span role="presentation"> </span> <span role="presentation">y &#937; <sub>2</sub></span>&nbsp;<span role="presentation">&nbsp;</span><span role="presentation">del tri&aacute;ngulo</span><span role="presentation"> </span><span role="presentation">ABC</span><span role="presentation"> </span><span role="presentation">est&eacute;n alineados  con &eacute;l e identificar la recta</span><span role="presentation"> que contiene a los  tres puntos.</span><br role="presentation" />
+          <span role="presentation">c) </span> <span role="presentation">Los puntos de Brocard</span><span role="presentation"> </span><span role="presentation">&#937;<sub>1</sub></span><span role="presentation"> </span> <span role="presentation">y &#937; <sub>2</sub></span><span role="presentation">&nbsp;</span><span role="presentation">del tri&aacute;ngulo</span><span role="presentation"> </span><span role="presentation">ABC</span><span role="presentation"> </span><span role="presentation">verifiquen que</span><span role="presentation"><span role="presentation">&#937;<sub>1</sub></span><span role="presentation"> </span> <span role="presentation">&#937; <sub>2</sub></span>&#8869;BC.</span></p><span role="presentation">
+      <p>&nbsp; P&eacute;rez M. A. (2021): Comunicacci&oacute;n personal. </p>
+      <p><a href="sol1033miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (16 de Enero de 2022)</a></p></span></td>
+    </tr>
+    <tr>
+      <td><p>Problema 1034</p>
+        <p>Sean O y H  el circuncentro y el ortocentro de un tri&aacute;ngulo ABC. <br />
+          Sea D el  punto medio de BC. Sea E el punto en la bisectriz de 	&#8736;BAC&nbsp;tal que AE&#8869;EH&nbsp;<br />
+          Sea F el  punto tal que AEHF es un rect&aacute;ngulo . Probar que los puntos D E y F est&aacute;n  alineados.<br />
+          Mathematical Excalibur, Vol. 22, No. 2, Nov. 18 &ndash; Jan. 19,  pag.3</p>
+        <p><a href="https://www.math.hkust.edu.hk/excalibur/v22_n2_20190124.pdf">https://www.math.hkust.edu.hk/excalibur/v22_n2_20190124.pdf</a></p>
+      <p><a href="sol1034miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (16 de Enero de 2022)</a></p>
+      <p><a href="sol1034dam.pdf">Soluci&oacute;n de Florentino Dami&aacute;n Aranda Ballesteros, profesor de Matem&aacute;ticas de C&oacute;rdoba (19 Enero de 2022)</a></p>
+      <p><a href="sol1034sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor de Matem&aacute;ticas jubilado, de Salamanca (24 de Enero  de 2022)</a></p></td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<table width="1142" border="1">
+  <tr>
+    <td width="1132"><p>Edici&oacute;n fin de a&ntilde;o (16 de Diciembre de 2021- 15 de Enero 2022) </p>
+    <p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+    <p>Problema 1032 </p>
+    <p><span role="presentation" dir="ltr">Dado un tri&aacute;ngulo</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">ABC</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">con baricentro</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">G</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">y tri&aacute;ngulo medial</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">LMN</span><span role="presentation" dir="ltr">, se consideran el punto medio</span><br role="presentation" />
+        <span role="presentation" dir="ltr">Q</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">del segmento</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">AL</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">y dos puntos</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">P</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">y</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">P&rsquo;</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">situados sobre la mediana</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">AL</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">y sim&eacute;tricos uno del otro respecto</span><br role="presentation" />
+        <span role="presentation" dir="ltr">del punto</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">Q</span><span role="presentation" dir="ltr">.</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">A continuaci&oacute;n, se consideran los puntos</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">E</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">y</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">F</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">en los que las rectas paralelas a</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">AB</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">y</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">AC</span><span role="presentation" dir="ltr">,</span><br role="presentation" />
+        <span role="presentation" dir="ltr">respectivamente, pasando por el punto</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">P</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">cortan a la recta</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">BC</span><span role="presentation" dir="ltr">, el punto</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">E&rsquo;</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">en el que la recta paralela a</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">AB</span><br role="presentation" />
+        <span role="presentation" dir="ltr">pasando por el punto</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">P</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">corta a la recta</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">AC</span><span role="presentation" dir="ltr">, el punto</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">F&rsquo;</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">en el que la recta paralela a</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">AC</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">pasando por el punto</span><br role="presentation" />
+        <span role="presentation" dir="ltr">P</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">corta a la recta</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">AB</span><span role="presentation" dir="ltr">, el punto</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">E&rsquo;&rsquo;</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">en el que la recta paralela a</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">AB</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">pasando por el punto</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">P&rsquo;</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">corta a la recta</span><br role="presentation" />
+        <span role="presentation" dir="ltr">AC</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">y el punto</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">F&rsquo;&rsquo;</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">en el que la recta paralela a</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">AC</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">pasando por el punto</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">P&rsquo;</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">corta a la recta</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">AB.</span><br role="presentation" />
+      1.- <span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">Probar que existe una c&oacute;nica que pasa por los puntos</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">E</span><span role="presentation" dir="ltr">,</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">F</span><span role="presentation" dir="ltr">,</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">E&rsquo;</span><span role="presentation" dir="ltr">,</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">F&rsquo;</span><span role="presentation" dir="ltr">,</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">E&rsquo;&rsquo;</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">y</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">F&rsquo;&rsquo;.</span><br role="presentation" />
+      2.- <span role="presentation" dir="ltr">Determinar y representar gr&aacute;ficamente el lugar geom &eacute;trico que describe el centro de esta c&oacute;nica cuando</span><br role="presentation" />
+  <span role="presentation" dir="ltr">el punto</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">P</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">recorre la recta</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">AL.</span><br role="presentation" />
+      3.- <span role="presentation" dir="ltr">Clasificar dicha c&oacute;nica, en funci&oacute;n de la posici&oacute;n que ocupa el punto</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">P</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">en la recta</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">AL.</span></p>
+    <p>P&eacute;rez M. A. (2021): Comunicacci&oacute;n personal. </p>
+    <p><a href="sol1032miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (16 de Diciembre de 2021)</a></p></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp; </p>
+<table width="1160" border="1">
+  <tr>
+    <td width="1150"><p>Quincena del 1 al 15 de Diciembre de 2021 </p>
+      <p>Problema 1026</p>
+      <p>Hallar el lugar geom&eacute;trico de los centros de los tri&aacute;ngulos equil&aacute;teros inscritos en la elipse </p>
+      <p>(x<sup>2</sup> /a<sup>2</sup>)+ (y<sup>2</sup>/b<sup>2</sup>)=1 </p>
+    <p>Thales , N&Uacute;M 0, (1984), pag.131</p>
+    <p>Este problema apareci&oacute; en el n&uacute;mero 0 de la revista de la SAPM THALES. (Sociedad andaluza de profesores de matem&aacute;ticas) </p>
+    <p><a href="thales.pdf">Recuerdos entra&ntilde;ables del número 0 </a></p>
+    <p><a href="escaneoportadaypresentación.pdf">Portada y presentación del número 0 </a></p>
+    <p><a href="sol1026miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (1 de Diciembre de 2021)</a></p></td>
+  </tr>
+  <tr>
+    <td><p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+    <p>Problema 1027 </p>
+    <p>Dados  un tri&aacute;ngulo ABC y un punto T,  la recta paralela a AB pasando por T  corta a las<br role="presentation" />
+      rectas  BC y CA en los puntos P  y Q, respectivamente, y la recta paralela a CA pasando por T  corta a las<br role="presentation" />
+      rectas  BC y AB en los puntos M  y N, respectivamente. Determinar el lugar geom&eacute;trico que debe  describir el<br role="presentation" />
+      punto  T para que los puntos:<br role="presentation" />
+  &nbsp;E = AP  	&#8745;BQ y 
+      F  = AM  	&#8745;CN est&eacute;n  alineados con el punto T.</p>
+    <p>P&eacute;rez M. A. (2021): Comunicacci&oacute;n personal. </p>
+    <p><a href="sol1027miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (1 de Diciembre de 2021)</a></p></td>
+  </tr>
+  <tr>
+    <td><p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+    <p>Problema 1028 </p>
+    <p><span role="presentation" dir="ltr">Dado un tri&aacute;ngulo </span><span role="presentation" dir="ltr">ABC</span><span role="presentation" dir="ltr">,  se consideran el punto medio </span><span role="presentation" dir="ltr">L</span><span role="presentation" dir="ltr"> del segmento </span><span role="presentation" dir="ltr">BC</span><span role="presentation" dir="ltr"> y dos puntos </span><span role="presentation" dir="ltr">P</span><span role="presentation" dir="ltr"> </span><br role="presentation" />
+        <span role="presentation" dir="ltr">y </span><span role="presentation" dir="ltr">Q</span><span role="presentation" dir="ltr"> situados en las rectas </span><span role="presentation" dir="ltr">AB</span><span role="presentation" dir="ltr"> y </span><span role="presentation" dir="ltr">LC</span><span role="presentation" dir="ltr">,  respectivamente, tales que:</span><br role="presentation" />
+        <span role="presentation" dir="ltr">(AP</span><span role="presentation" dir="ltr">/AB)=(</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">LQ/</span> <span role="presentation" dir="ltr">LC</span>)<br role="presentation" />
+        <span role="presentation" dir="ltr">Determinar y representar gr&aacute;ficamente la curva envolvente de las rectas </span><span role="presentation" dir="ltr">PQ</span><span role="presentation" dir="ltr"> cuando el punto </span><span role="presentation" dir="ltr">P</span><span role="presentation" dir="ltr"> recorre la recta</span><br role="presentation" />
+        <span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">AB</span><span role="presentation" dir="ltr">.</span> </p>
+    <p>P&eacute;rez M. A. (2021): Comunicacci&oacute;n personal. </p>
+    <p><a href="sol1028miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (1 de Diciembre de 2021)</a></p></td>
+  </tr>
+  <tr>
+    <td><p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+    <p>Problema 1029 </p>
+    <p><span role="presentation" dir="ltr">Dado un tri&aacute;ngulo </span><span role="presentation" dir="ltr">ABC </span><span role="presentation" dir="ltr">con incentro </span><span role="presentation" dir="ltr">I</span><span role="presentation" dir="ltr">,  se consideran dos puntos </span><span role="presentation" dir="ltr">P</span><span role="presentation" dir="ltr"> y </span><span role="presentation" dir="ltr">Q</span><span role="presentation" dir="ltr"> situados en las</span><br role="presentation" />
+        <span role="presentation" dir="ltr">rectas </span><span role="presentation" dir="ltr">BI</span><span role="presentation" dir="ltr"> e </span><span role="presentation" dir="ltr">IC</span><span role="presentation" dir="ltr">,  respectivamente, tales que:</span><br role="presentation" />
+        <span role="presentation" dir="ltr">(BP/</span><span role="presentation" dir="ltr">BI</span><span role="presentation" dir="ltr">)=(</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">IQ/</span> <span role="presentation" dir="ltr">IC)</span><br role="presentation" />
+        <span role="presentation" dir="ltr">Determinar y representar gr&aacute;ficamente la curva envolvente de las rectas </span><span role="presentation" dir="ltr">PQ</span><span role="presentation" dir="ltr"> cuando el punto </span><span role="presentation" dir="ltr">P</span><span role="presentation" dir="ltr"> recorre la recta</span><br role="presentation" />
+        <span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">BI</span><span role="presentation" dir="ltr">.</span> </p>
+    <p>P&eacute;rez M. A. (2021): Comunicacci&oacute;n personal. </p>
+    <p><a href="sol1029miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (1 de Diciembre de 2021)</a></p></td>
+  </tr>
+  <tr>
+    <td><p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+    <p>Problema 1030 </p>
+    <p><span role="presentation" dir="ltr">Dado un tri&aacute;ngulo </span><span role="presentation" dir="ltr">ABC </span><span role="presentation" dir="ltr">con punto simediano </span><span role="presentation" dir="ltr">K</span><span role="presentation" dir="ltr">,  se consideran dos puntos </span><span role="presentation" dir="ltr">P</span><span role="presentation" dir="ltr"> y </span><span role="presentation" dir="ltr">Q</span><span role="presentation" dir="ltr"> situados</span><br role="presentation" />
+        <span role="presentation" dir="ltr">en las rectas </span><span role="presentation" dir="ltr">BK</span><span role="presentation" dir="ltr"> y </span><span role="presentation" dir="ltr">KC</span><span role="presentation" dir="ltr">,  respectivamente, tales que:</span><br role="presentation" />
+        <span role="presentation" dir="ltr">(BP/</span><span role="presentation" dir="ltr">BK)=(</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">KQ/</span> <span role="presentation" dir="ltr">KC)</span><br role="presentation" />
+        <span role="presentation" dir="ltr">Determinar y representar gr&aacute;ficamente la curva envolvente de las rectas </span><span role="presentation" dir="ltr">PQ</span><span role="presentation" dir="ltr"> cuando el punto </span><span role="presentation" dir="ltr">P</span><span role="presentation" dir="ltr"> recorre la recta</span><br role="presentation" />
+        <span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">BK</span><span role="presentation" dir="ltr">.</span> </p>
+    <p>P&eacute;rez M. A. (2021): Comunicacci&oacute;n personal. </p>
+    <p><a href="sol1030miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (1 de Diciembre de 2021)</a></p></td>
+  </tr>
+  <tr>
+    <td><p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+    <p>Problema 1031 </p>
+    <p><span role="presentation" dir="ltr">Dado  un  tri&aacute;ngulo </span><span role="presentation" dir="ltr">ABC</span><span role="presentation" dir="ltr"> con  tri&aacute;ngulo  medial </span><span role="presentation" dir="ltr">LMN</span><span role="presentation" dir="ltr">,    se  consideran  el  punto  medio </span><span role="presentation" dir="ltr">Q</span><span role="presentation" dir="ltr"> del</span><br role="presentation" />
+        <span role="presentation" dir="ltr">segmento </span><span role="presentation" dir="ltr">AL </span><span role="presentation" dir="ltr">y  dos  puntos </span><span role="presentation" dir="ltr">P</span><span role="presentation" dir="ltr"> y </span><span role="presentation" dir="ltr">P&rsquo;</span><span role="presentation" dir="ltr"> situados  sobre  la  mediana </span><span role="presentation" dir="ltr">AL</span><span role="presentation" dir="ltr"> y  sim&eacute;tricos  uno  del  otro  respecto  del</span><br role="presentation" />
+        <span role="presentation" dir="ltr">punto </span><span role="presentation" dir="ltr">Q</span><span role="presentation" dir="ltr">.  A continuaci&oacute;n, se considera la c&oacute;nica que pasa por los puntos </span><span role="presentation" dir="ltr">A</span><span role="presentation" dir="ltr">, </span><span role="presentation" dir="ltr">D,</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">E</span><span role="presentation" dir="ltr">, </span><span role="presentation" dir="ltr">F</span><span role="presentation" dir="ltr"> y </span><span role="presentation" dir="ltr">Q</span><span role="presentation" dir="ltr">,  siendo:</span><br role="presentation" />
+        <span role="presentation" dir="ltr"> </span><br role="presentation" />
+      <span role="presentation" dir="ltr">D</span><span role="presentation" dir="ltr"> </span>=<span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">BP</span><span role="presentation" dir="ltr"> &#8745;</span><span role="presentation" dir="ltr">CP' , </span> <span role="presentation" dir="ltr">E</span><span role="presentation" dir="ltr"> </span>=<span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">BP</span><span role="presentation" dir="ltr"> </span> &#8745;<span role="presentation" dir="ltr">AC, </span> <span role="presentation" dir="ltr">F</span><span role="presentation" dir="ltr"> </span>=<span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">CP</span>'  	&#8745;<span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">AB</span></p>
+    <p><span role="presentation" dir="ltr">1)</span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">Determinar y representar gr&aacute;ficamente el lugar geom</span><span role="presentation" dir="ltr">&eacute;trico que describe el centro de esta c&oacute;nica cuando</span><br role="presentation" />
+        <span role="presentation" dir="ltr">el punto </span><span role="presentation" dir="ltr">P</span><span role="presentation" dir="ltr"> recorre la recta </span><span role="presentation" dir="ltr">AL.</span><br role="presentation" />
+      2) <span role="presentation" dir="ltr">Clasificar dicha c&oacute;nica, en funci&oacute;n de la posici&oacute;n que ocupa el punto </span><span role="presentation" dir="ltr">P</span><span role="presentation" dir="ltr"> en la recta </span><span role="presentation" dir="ltr">AL</span></p>
+    <p>P&eacute;rez M. A. (2021): Comunicacci&oacute;n personal. </p>
+    <p><a href="sol1031miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (1 de Diciembre de 2021)</a></p></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="982" border="1">
+  <tbody>
+    <tr>
+      <td width="972"><p>Edici&oacute;n del 16 al 30 de Noviembre de 2021</p>
+      <p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+      <p>Problema 1022</p>
+      <p><span role="presentation" dir="ltr">Sea </span><span role="presentation" dir="ltr">ABC</span><span role="presentation" dir="ltr"> un tri&aacute;ngulo con incentro </span><span role="presentation" dir="ltr">I</span><span role="presentation" dir="ltr"> y sea </span><span role="presentation" dir="ltr">D</span><span role="presentation" dir="ltr"> un punto arbitrario en el lado </span><span role="presentation" dir="ltr">BC</span><span role="presentation" dir="ltr">.  La recta</span><br role="presentation" />
+        <span role="presentation" dir="ltr">que pasa por </span><span role="presentation" dir="ltr">D</span><span role="presentation" dir="ltr"> y es perpendicular a </span><span role="presentation" dir="ltr">BI</span><span role="presentation" dir="ltr"> interseca a </span><span role="presentation" dir="ltr">CI</span><span role="presentation" dir="ltr"> en un punto </span><span role="presentation" dir="ltr">E.</span><span role="presentation" dir="ltr"> La recta que pasa por </span><span role="presentation" dir="ltr">D</span><span role="presentation" dir="ltr"> y es</span><br role="presentation" />
+        <span role="presentation" dir="ltr">perpendicular a </span><span role="presentation" dir="ltr">CI</span><span role="presentation" dir="ltr"> interseca a </span><span role="presentation" dir="ltr">BI</span><span role="presentation" dir="ltr"> en un punto </span><span role="presentation" dir="ltr">F. </span><span role="presentation" dir="ltr">Determinar y representar gr&aacute;ficamente la envolvente de las</span><br role="presentation" />
+        <span role="presentation" dir="ltr">rectas </span><span role="presentation" dir="ltr">EF</span><span role="presentation" dir="ltr"> cuando el punto </span><span role="presentation" dir="ltr">D</span><span role="presentation" dir="ltr"> recorre la recta </span><span role="presentation" dir="ltr">BC</span><span role="presentation" dir="ltr"> </span></p>
+      <p>P&eacute;rez M. A. (2021): Comunicacci&oacute;n personal. </p>
+      <p><a href="sol1022miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (17 de Noviembre de 2021)</a></p>
+      <p>&nbsp;</p>
+      <p><a href="sol1022sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor de Matem&aacute;ticas jubilado, de Salamanca (1 de Diciembre de 2021)</a></p></td>
+    </tr>
+    <tr>
+      <td><p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+      <p>Problema 1023</p>
+      <p><span role="presentation" dir="ltr">Dado un tri&aacute;ngulo </span><span role="presentation" dir="ltr">ABC</span><span role="presentation" dir="ltr"> con tri&aacute;ngulo medial </span><span role="presentation" dir="ltr"> LMN</span><span role="presentation" dir="ltr">,  se considera un punto </span><span role="presentation" dir="ltr">T</span><span role="presentation" dir="ltr"> situado</span><br role="presentation" />
+        <span role="presentation" dir="ltr">sobre la recta </span><span role="presentation" dir="ltr">BC</span><span role="presentation" dir="ltr">,  la recta<span role="presentation" dir="ltr"> T</span><span role="presentation" dir="ltr"><sub>y</sub></span></span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr"> paralela a </span><span role="presentation" dir="ltr">AC</span><span role="presentation" dir="ltr"> pasando por </span><span role="presentation" dir="ltr">T</span><span role="presentation" dir="ltr">, <span role="presentation" dir="ltr"> la recta<span role="presentation" dir="ltr"> T</span><span role="presentation" dir="ltr"><sub>z</sub></span></span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr"> paralela a </span><span role="presentation" dir="ltr">AB</span><span role="presentation" dir="ltr"> pasando por </span><span role="presentation" dir="ltr">T</span>la recta </span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr"> paralela a </span><span role="presentation" dir="ltr">AB</span><span role="presentation" dir="ltr"> pasando por </span><span role="presentation" dir="ltr">T</span><span role="presentation" dir="ltr"> y la</span><br role="presentation" />
+        <span role="presentation" dir="ltr">c&oacute;nica que pasa por los puntos </span><span role="presentation" dir="ltr">A</span><span role="presentation" dir="ltr">, </span><span role="presentation" dir="ltr">D</span><span role="presentation" dir="ltr">, </span><span role="presentation" dir="ltr">E</span><span role="presentation" dir="ltr">, </span><span role="presentation" dir="ltr">F</span><span role="presentation" dir="ltr"> y </span><span role="presentation" dir="ltr">J</span><span role="presentation" dir="ltr">,  siendo:</span><br role="presentation" />
+D= T<sub>y</sub> &#8745;BM, E= T<sub>y</sub> &#8745;CN , F= T<sub>z</sub> &#8745;BM, J= T<sub>z</sub> &#8745;CN</p>
+      <p><br role="presentation" />
+        <span role="presentation" dir="ltr">1)</span><span role="presentation" dir="ltr"></span><span role="presentation" dir="ltr">Clasificar dicha c&oacute;nica, en funci&oacute;n de la posici&oacute;n que ocupa el punto </span><span role="presentation" dir="ltr">T</span><span role="presentation" dir="ltr"> en la recta </span><span role="presentation" dir="ltr">BC</span></p>
+      <p><a href="sol1023amiguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (17 de Noviembre de 2021)</a><br role="presentation" />
+        2) <span role="presentation" dir="ltr">Determinar y representar graficamente la envolvente de las rectas </span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">EF</span><span role="presentation" dir="ltr"> cuando el punto </span><span role="presentation" dir="ltr">T</span><span role="presentation" dir="ltr"> recorre la</span><br role="presentation" />
+        <span role="presentation" dir="ltr">recta </span><span role="presentation" dir="ltr">BC</span><span role="presentation" dir="ltr">.</span></p>
+      <p><a href="sol1023bmiguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (17 de Noviembre de 2021)</a><br role="presentation" />
+        3) <span role="presentation" dir="ltr">Determinar y representar graficamente la envolvente  de las rectas </span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">DJ</span><span role="presentation" dir="ltr"> cuando el punto </span><span role="presentation" dir="ltr">T</span><span role="presentation" dir="ltr"> recorre  la</span><br role="presentation" />
+        <span role="presentation" dir="ltr">recta </span><span role="presentation" dir="ltr">BC</span><span role="presentation" dir="ltr">.</span></p>
+      <p><a href="sol1023cmiguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (17 de Noviembre de 2021)</a></p>
+      <p>P&eacute;rez M. A. (2021): Comunicacci&oacute;n personal. </p>
+      <p>&nbsp;</p></td>
+    </tr>
+    <tr>
+      <td><p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+      <p>Problema 1024</p>
+      <p><span role="presentation" dir="ltr">Dado un tri&aacute;ngulo </span><span role="presentation" dir="ltr">ABC</span><span role="presentation" dir="ltr"> con tri&aacute;ngulo medial </span><span role="presentation" dir="ltr"> LMN</span><span role="presentation" dir="ltr">,  se considera un punto </span><span role="presentation" dir="ltr">T</span><span role="presentation" dir="ltr"> situado</span><br role="presentation" />
+        <span role="presentation" dir="ltr">sobre la recta </span><span role="presentation" dir="ltr">BC</span><span role="presentation" dir="ltr">,  la recta<span role="presentation" dir="ltr"> T</span><span role="presentation" dir="ltr"><sub>y</sub></span></span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr"> paralela a </span><span role="presentation" dir="ltr">CN</span><span role="presentation" dir="ltr"> pasando por </span><span role="presentation" dir="ltr">T</span><span role="presentation" dir="ltr">, <span role="presentation" dir="ltr"> la recta<span role="presentation" dir="ltr"> T</span><span role="presentation" dir="ltr"><sub>z</sub></span></span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr"> paralela a </span><span role="presentation" dir="ltr">BM</span><span role="presentation" dir="ltr"> pasando por </span><span role="presentation" dir="ltr">T</span>la recta </span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr"> paralela a </span><span role="presentation" dir="ltr">AB</span><span role="presentation" dir="ltr"> pasando por </span><span role="presentation" dir="ltr">T</span><span role="presentation" dir="ltr"> y la</span><br role="presentation" />
+        <span role="presentation" dir="ltr">c&oacute;nica que pasa por los puntos G</span><span role="presentation" dir="ltr">, </span><span role="presentation" dir="ltr">D</span><span role="presentation" dir="ltr">, </span><span role="presentation" dir="ltr">E</span><span role="presentation" dir="ltr">, </span><span role="presentation" dir="ltr">F</span><span role="presentation" dir="ltr"> y </span><span role="presentation" dir="ltr">J</span><span role="presentation" dir="ltr">,  siendo:</span><br role="presentation" />
+G el baricentro de ABC , D= T<sub>y</sub> &#8745;AB, E= T<sub>y</sub> &#8745;AC , F= T<sub>z</sub> &#8745;AB, J= T<sub>z</sub> &#8745;AC</p>
+      <p><br role="presentation" />
+        <span role="presentation" dir="ltr">1)</span><span role="presentation" dir="ltr"></span><span role="presentation" dir="ltr">Clasificar dicha c&oacute;nica, en funci&oacute;n de la posici&oacute;n que ocupa el punto </span><span role="presentation" dir="ltr">T</span><span role="presentation" dir="ltr"> en la recta </span><span role="presentation" dir="ltr">BC.</span></p>
+      <p><a href="sol1024amiguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (17 de Noviembre de 2021)</a><br role="presentation" />
+        2) <span role="presentation" dir="ltr">Determinar y representar graficamente la envolvente de las rectas </span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">EF</span><span role="presentation" dir="ltr"> cuando el punto </span><span role="presentation" dir="ltr">T</span><span role="presentation" dir="ltr"> recorre la</span><br role="presentation" />
+        <span role="presentation" dir="ltr">recta </span><span role="presentation" dir="ltr">BC</span><span role="presentation" dir="ltr">.</span></p>
+      <p><a href="sol1024bmiguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (17 de Noviembre de 2021)</a><br role="presentation" />
+        3) <span role="presentation" dir="ltr">Determinar y representar graficamente la envolvente  de las rectas </span><span role="presentation" dir="ltr"> </span><span role="presentation" dir="ltr">DJ</span><span role="presentation" dir="ltr"> cuando el punto </span><span role="presentation" dir="ltr">T</span><span role="presentation" dir="ltr"> recorre  la</span><br role="presentation" />
+        <span role="presentation" dir="ltr">recta </span><span role="presentation" dir="ltr">BC</span><span role="presentation" dir="ltr">.</span></p>
+      <p><a href="sol1024cmiguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (17 de Noviembre de 2021)</a></p>
+      <p>P&eacute;rez M. A. (2021): Comunicacci&oacute;n personal. </p></td>
+    </tr>
+    <tr>
+      <td><p>Problema 1025 </p>
+        <p>Dado un tri&aacute;ngulo ABC, sea B&rsquo; un punto &nbsp;del lado AB distinto de A y de B, C&rsquo; el punto  de intersecci&oacute;n con AC de la paralela por B&rsquo; a BC, x la circunferencia de  centro B que pasa por C, x&rsquo; la circunferencia de centro B&rsquo; que pasa por C&rsquo; , y  D el otro punto de intersecci&oacute;n de x&rsquo; con la recta AC. Siendo t la tangente a x  en C y t&rsquo; la tangente a x&rsquo; en D, demostrar que:<br />
+          1&ordm; ) t y t&rsquo; son rectas secantes (se cortan)<br />
+          2&ordm;) &nbsp;Si T es el punto  de intersecci&oacute;n de t y t&rsquo; , entonces el tri&aacute;ngulo CTD es is&oacute;sceles.</p>
+        <p>Thales , Revista de la Sociedad Andaluza de Profesores de Matem&aacute;ticas (6), 1986.</p>
+        <p>N. de D. Este problema que resolv&iacute; en 1986 est&aacute; dedicado a la <a href="https://thales.cica.es/">SAEM Thales</a>, con motivo de sus cuarenta a&ntilde;os. Mi enhorabuena.</p>
+        <p><a href="sol1025miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (17 de Noviembre de 2021)</a></p>
+        <p><a href="sol1025sat.pdf">Soluci&oacute;n de Saturnino Campo Ruiz, Profesor de Matem&aacute;ticas jubilado, de Salamanca (21 de Noviembre de 2021)</a></p>
+        <p><a href="sol1025edi.pdf">Soluci&oacute;n del director (25 de Noviembre de 2021)</a></p>
+      <p></p></td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<table width="991" border="1">
+  <tr>
+    <td width="981"><p>Edici&oacute;n de la quincena del 1 al 15 de Noviembre de 2021 </p>
+      <p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+      <p>Problema 1018</p>
+      <p>Caracterizar las c&oacute;nicas que son transformadas isot&oacute;micas de cualquier recta que pase por el punto<br />
+        medio L del segmento BC de un tri&aacute;ngulo ABC.</p>
+      <p> Determinar el lugar geom&eacute;trico que describen los centros de dichas c&oacute;nicas. </p>
+    <p>P&eacute;rez M. A. (2021): Comunicacci&oacute;n personal. </p>
+    <p><a href="sol1018miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (1 de Noviembre de 2021)</a></p></td>
+  </tr>
+  <tr>
+    <td><p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+      <p>Problema 1019 </p>
+      <p>Dados un tri&aacute;ngulo ABC y un punto P, se consideran los puntos D y J de intersecci&oacute;n<br />
+        entre la recta paralela a AB pasando por P y las rectas BC y CA, respectivamente, los puntos E y L de<br />
+        intersecci&oacute;n entre la recta paralela a CA pasando por P y las rectas BC y AB, respectivamente, y los puntos<br />
+        F y M de intersecci&oacute;n entre la recta paralela a BC pasando por P y las rectas CA y AB, respectivamente.<br />
+        A continuaci&oacute;n, se consideran los baricentros U, V y W de los tri&aacute;ngulos PDE, PFJ y PLM,<br />
+        respectivamente, y el baricentro Q del tri&aacute;ngulo UVW. Determinar el lugar geom&eacute;trico que debe describir el<br />
+        punto P para que el punto Q est&eacute; situado sobre la circunelipse de Steiner del tri&aacute;ngulo ABC. </p>
+    <p>P&eacute;rez M. A. (2021): Comunicacci&oacute;n personal. </p>
+    <p><a href="sol1019miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz).  (1 de Noviembre de 2021)</a></p></td>
+  </tr>
+  <tr>
+    <td><p>Propuesto por Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega, profesor de Matem&aacute;ticas en el IES &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz)</p>
+      <p>Problema 1020 </p>
+      <p>&nbsp;</p>
+      <p>Dados un tri&aacute;ngulo ABC y un punto P, se consideran los puntos medios U, V y W de los<br />
+        segmentos PA, PB y PC, respectivamente, y el baricentro Q del tri&aacute;ngulo UVW. Determinar el lugar<br />
+        geom&eacute;trico que debe describir el punto P para que el punto Q est&eacute; situado sobre la inelipse de Steiner del<br />
+        tri&aacute;ngulo ABC. </p>
+    <p>P&eacute;rez M. A. (2021): Comunicacci&oacute;n personal. </p>
+    <p><a href="sol1020miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (1 de Noviembre de 2021)</a></p></td>
+  </tr>
+  <tr>
+    <td><p>Problema 1021 </p>
+      <p>Sea ABC un tri&aacute;ngulo con incentro I y sea D un punto  arbitrario en el lado BC.</p>
+      <p> La recta que pasa por D y es perpendicular a BI  interseca a CI en un punto E. </p>
+      <p>&nbsp;La recta  que pasa por D y es perpendicular a CI interseca a BI en un punto F. </p>
+      <p>Demuestre  que la reflexi&oacute;n de A sobre la recta EF est&aacute; en la recta BC.</p>
+      <p><a href="https://www.egmo.org/">EGMO, 2021 </a></p>
+      <p>&nbsp;</p>
+      <p><a href="sol1021miguel.pdf">Soluci&oacute;n de Miguel-&Aacute;ngel P&eacute;rez Garc&iacute;a-Ortega,  profesor de Matem&aacute;ticas en el IES   &quot;Bartolom&eacute;-Jos&eacute; Gallardo&quot; de Campanario (Badajoz). (1 de Noviembre de 2021)</a></p>
+      <p>&nbsp;</p>
+      <p><a href="sol1021edi.pdf">Soluci&oacute;n del director (10 de Noviembre de 2021) </a></p>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table width="752" border="1">
+  <tbody>
+    <tr>
+      <td width="1218" bgcolor="#FFFFCC"><p class="section11"
+        style="line-height:14.4pt"><span style="font-family:Arial"><a
+        href="http://www.us.es"><span
+        style="text-decoration:none;text-underline:   none"><img border="0"
+        width="126" height="103" id="_x0000_i1028" src="angelusev.JPG" /></span></a>Dirigida y editada
+        por Ricardo Barroso Campos (Profesor jubilado) Universidad de
+        Sevilla) </span><span class="section11"
+        style="line-height:14.4pt"><span style="font-family:Arial"><img
+        src="acredita-web.jpg" width="200" height="159" /></span></span></p>
+        <pre><a href="comiteeditorial.htm" target="_parent">Comit&eacute; Editorial:</a>&nbsp;
+Renovaci&oacute;n        </pre>
+        Mar Li&ntilde;&aacute;n Garc&iacute;a,&nbsp;  Profesora Sustituta Interina del Departamento de Did&aacute;ctica de las  Matem&aacute;ticas de la   Universidad de Sevilla
+        <p>D&ordf; Fabiola Czwienczek, profesora de Matem&aacute;tica  (jubilada). Turmero, Venezuela </p>
+        <p>Inocencio Esquivel Garc&iacute;a, docente de Matem&aacute;ticas  del Instituto T&eacute;cnico Patios Centro No. 2 Los Patios N.S. Colombia</p>
+        <p>Roberto Bosch Cabrera, Licenciado en Matem&aacute;tica de  la Universidad de La Habana, Cuba, actualmente residente en Florida, USA, </p>
+        <p>============================================================================= </p>
+        <p>Hasta ahora han sido miembros del comit&eacute; editorial de  Trianguloscabri: </p>
+        <p>Jos&eacute; Mar&iacute;a Gavil&aacute;n Izquierdo </p>
+        <p>Florentino Dami&aacute;n Aranda Ballesteros </p>
+        <p>Maite Pe&ntilde;a Alcaraz </p>
+        <p>Juan Carlos Salazar </p>
+        <p>Saturnino Campo Ruiz </p>
+        <p>Juan Bosco Romero M&aacute;rquez </p>
+        <p>Alicia Pe&ntilde;a Alcaraz </p>
+        <p>Francisco Javier Garc&iacute;a Capit&aacute;n </p>
+        <p>William Rodr&iacute;guez Chamache </p>
+        <p>Jos&eacute; Mar&iacute;a Pedret </p>
+        <p>Vicente Vicario Garc&iacute;a </p>
+        <p>Angel Montesdeoca Delgado </p>
+        <p>Ricard Peir&oacute; Estruch </p>
+        <p>Julio Miranda </p>
+        <p>Ercole Suppa </p>
+        <p>Jos&eacute; Manuel Arranz </p>
+        <p>Juli&aacute;n Santamaria Tobar </p>
+        <p>Milton Favio Donaire Pe&ntilde;a </p>
+        <p>Francisco Bellot Rosado&nbsp;&nbsp;</p>
+        <p> Carmen Arriero Villacorta </p>
+        <p>Nicol&aacute;s Carlos Rosillo Fern&aacute;ndez </p>
+        <p>Ram&oacute;n Trigueros Reina, </p>
+        <p>Mi profundo agradecimiento por su labor cient&iacute;fica.</p></td>
+    </tr>
+  </tbody>
+</table>
+<p class="Estilo2">&nbsp;</p>
+<p>&nbsp;</p>
+<tr>
+  <div align="center">
+    <table width="618" border="1">
+      <tr>
+        <td width="608" bgcolor="#FFCCAA"><p class="WordSection1311"><strong>Nota del director: Aunque la revista comenz&oacute; en el a&ntilde;o 2000, con la idea de usar Cabri, </strong></p>
+          <p class="WordSection1311"><strong>tambi&eacute;n se puede usar Geogebra, como viene sucediendo desde hace alg&uacute;n tiempo. </strong></p>
+        <p class="WordSection1311"><strong>El nombre de la revista seguir&aacute;, de momento, siendo su se&ntilde;a de identidad.</strong></p></td>
+      </tr>
+    </table>
+  </div>
+  <p>&nbsp;</p>
+  <table border="1" cellpadding="0" width="775">
+    <tbody>
+      <tr>
+        <td width="767"><p align="center"
+            style="text-align:center"><strong><span
+            style="font-size:   18.0pt">Normas </span></strong></p>
+          <pre><em><span style="font-family:Arial;color:#802900">Se publicarán las soluciones recibidas.</span></em></pre>
+          <pre><em><span style="font-family:&#34;Courier New&#34;">En la quincena, habrá 10 días sin aparecer las primeras soluciones.</span></em></pre>
+          <pre><strong><i><span style="font-family:Arial;color:#802900">En tal caso, hay la posibilidad de que varias soluciones coincidan, y serán publicadas.</span></i></strong></pre>
+          <pre><em><span style="font-family:&#34;Courier New&#34;">Los últimos 5 días aparecen las soluciones.</span></em></pre>
+          <pre><em><span style="font-family:&#34;Courier New&#34;">Los problemas permanecerán un mes en la página de inicio</span></em>.</pre>
+          <pre><em><span style="font-family:Arial;color:#802900">Se admiten propuestas de problemas, indicando la correspondiente  bibliografía</span></em><span class="estilo1211"><b><i><span style="font-family:Arial">.</span></i></b></span></pre>
+          <pre><span class="estilo1211"><b><i><span style="font-family:Arial">Si de alguna "comunicación personal" es conocida su referencia, </span></i></b></span></pre>
+          <pre><span class="estilo1211"><b><i><span style="font-family:Arial">se solicita que se comuni</span></i></b></span><strong><i><span style="font-family:Arial;color:#000099">que al director/editor.</span></i></strong></pre>
+          <pre><strong><span style="font-family:Arial;color:#993300">Pueden enviarse fotos y pequeño currículum para incorporarlos a Colaboradores</span></strong></pre>
+          <pre> </pre></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  
+  <blockquote>
+    <blockquote>
+      <p><span style="font-size:10.0pt;font-family:Arial">Ha habido por
+        S</span>ervicont 2230 visitas desde 16 de octubre de 2000 a 1 de julio
+        de 2001 </p>
+      <p>por Miarroba, 118898 desde 1 de julio de 2001 a 6 de septiembre de
+        2006</p>
+      <p>A partir del 6 de septiembre de 2006, en </p>
+      <p>A partir del 27 de junio de 2016, en google analytics</p>
+   <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-79911828-1', 'auto');
+  ga('send', 'pageview');
+
+</script> 
+  
+</blockquote></blockquote></body>
+</html>
